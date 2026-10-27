@@ -357,15 +357,4 @@ Planned / possible improvements:
 - Live verification of the Label Studio, LLM and TensorBoard integrations and of the Docker setup.
 - Production hardening (multi-user authentication, HTTPS deployment, database migrations).
 
-## Contributors
 
-- **Saurabh Mali** — [@SAURABH11072004](https://github.com/SAURABH11072004)
-
-## License and acknowledgements
-
-This repository is distributed under the license in [`LICENSE`](LICENSE) (Creative Commons Attribution 4.0 International).
-
-The project builds on the open-source **CCB computer-vision / `dentexmodel` template** by awerdich ([ccb-hms/computervision](https://github.com/ccb-hms/computervision)),
-credited in [`AUTHORS.rst`](AUTHORS.rst), whose research notebooks and Docker environment are retained in `notebooks/`,
-`Dockerfile` and `docker-compose.yml`. It uses the public DENTEX Challenge 2023 dataset — please cite the DENTEX authors
-when using the data — and integrates [Label Studio](https://labelstud.io/).
