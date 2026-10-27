@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="248.4pt" height="110.85pt" viewBox="0 0 248.4 110.85" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T19:20:34.292519</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 110.85 
+L 248.4 110.85 
+L 248.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 0 31.68 
+L 41.472 31.68 
+L 41.472 1.44 
+L 0 1.44 
+z
+" clip-path="url(#p756af9b822)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 58.681728 25.632 
+L 81.574272 25.632 
+L 81.574272 7.488 
+L 58.681728 7.488 
+L 58.681728 25.632 
+z
+" clip-path="url(#p756af9b822)" style="fill: none; stroke-dasharray: 2.1,1.2; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 60.58944 24.12 
+L 79.66656 24.12 
+L 79.66656 9 
+L 60.58944 9 
+L 60.58944 24.12 
+z
+" clip-path="url(#p756af9b822)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 107.1216 28.9584 
+L 131.9184 28.9584 
+L 131.9184 4.1616 
+L 107.1216 4.1616 
+L 107.1216 28.9584 
+z
+" clip-path="url(#p756af9b822)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 148.176 1.44 
+L 189.648 9.9072 
+L 189.648 23.2128 
+L 148.176 31.68 
+z
+" clip-path="url(#p756af9b822)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 197.568 31.68 
+L 239.04 31.68 
+L 239.04 1.44 
+L 197.568 1.44 
+z
+" clip-path="url(#p756af9b822)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 239.04 16.56 
+L 244.8 16.56 
+" clip-path="url(#p756af9b822)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 244.8 16.56 
+L 244.8 56.13 
+" clip-path="url(#p756af9b822)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 0 60.45 
+L 248.4 60.45 
+" clip-path="url(#p756af9b822)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 62.1 60.45 
+L 62.1 97.17 
+" clip-path="url(#p756af9b822)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 124.2 60.45 
+L 124.2 97.17 
+" clip-path="url(#p756af9b822)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 186.3 60.45 
+L 186.3 97.17 
+" clip-path="url(#p756af9b822)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 0 72.69 
+L 248.4 72.69 
+" clip-path="url(#p756af9b822)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 0 97.17 
+L 248.4 97.17 
+" clip-path="url(#p756af9b822)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="20.736" y="18.241055" transform="rotate(-0 20.736 18.241055)">Tooth box</text>
+   </g>
+   <g id="text_2">
+    <text style="font: 6.6px 'Times New Roman', serif" transform="translate(114.57 15.148219)">224</text>
+    <text style="font: 6.6px 'Times New Roman', serif" transform="translate(111.884109 21.142875)">× 224</text>
+   </g>
+   <g id="text_3">
+    <text style="font: 700 6.6px 'Times New Roman', serif; text-anchor: middle" x="166.752" y="18.039328" transform="rotate(-0 166.752 18.039328)">ResNet-50</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="218.304" y="18.241055" transform="rotate(-0 218.304 18.241055)">Softmax</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 41.472 16.56 
+Q 50.076864 16.56 57.927215 16.56 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 54.927215 15.26 
+L 57.927215 16.56 
+L 54.927215 17.86 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 81.574272 16.56 
+Q 94.347936 16.56 106.367087 16.56 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 103.367087 15.26 
+L 106.367087 16.56 
+L 103.367087 17.86 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 131.9184 16.56 
+Q 140.0472 16.56 147.421487 16.56 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 144.421487 15.26 
+L 147.421487 16.56 
+L 144.421487 17.86 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 189.648 16.56 
+Q 193.608 16.56 196.813487 16.56 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 193.813487 15.26 
+L 196.813487 16.56 
+L 193.813487 17.86 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font: 6.6px 'Times New Roman', serif; text-anchor: middle" x="20.736" y="38.665547" transform="rotate(-0 20.736 38.665547)">detector or</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 6.6px 'Times New Roman', serif; text-anchor: middle" x="20.736" y="46.909359" transform="rotate(-0 20.736 46.909359)">ground truth</text>
+   </g>
+   <g id="text_7">
+    <text style="font: 6.6px 'Times New Roman', serif; text-anchor: middle" x="70.128" y="38.665547" transform="rotate(-0 70.128 38.665547)">crop, +10 %</text>
+   </g>
+   <g id="text_8">
+    <text style="font: 6.6px 'Times New Roman', serif; text-anchor: middle" x="70.128" y="46.909359" transform="rotate(-0 70.128 46.909359)">padding</text>
+   </g>
+   <g id="text_9">
+    <text style="font: 6.6px 'Times New Roman', serif; text-anchor: middle" x="119.52" y="38.659359" transform="rotate(-0 119.52 38.659359)">resize; ImageNet</text>
+   </g>
+   <g id="text_10">
+    <text style="font: 6.6px 'Times New Roman', serif; text-anchor: middle" x="119.52" y="46.915547" transform="rotate(-0 119.52 46.915547)">mean / SD</text>
+   </g>
+   <g id="text_11">
+    <text style="font: 6.6px 'Times New Roman', serif; text-anchor: middle" x="168.912" y="38.659359" transform="rotate(-0 168.912 38.659359)">ImageNet init.,</text>
+   </g>
+   <g id="text_12">
+    <text style="font: 6.6px 'Times New Roman', serif; text-anchor: middle" x="168.912" y="46.909359" transform="rotate(-0 168.912 46.909359)">4-way head</text>
+   </g>
+   <g id="text_13">
+    <text style="font: 6.6px 'Times New Roman', serif; text-anchor: middle" x="218.304" y="38.653172" transform="rotate(-0 218.304 38.653172)">arg max</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 6.6px 'Times New Roman', serif; text-anchor: middle" x="218.304" y="46.915547" transform="rotate(-0 218.304 46.915547)">= class</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 700 6.6px 'Times New Roman', serif; text-anchor: start" x="0" y="57.255516" transform="rotate(-0 0 57.255516)">OUTPUT CLASSES (TRAINING CROPS, CLASS WEIGHT)</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 244.8 56.13 
+Q 244.8 58.29 244.8 59.695487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 246.1 56.695487 
+L 244.8 59.695487 
+L 243.5 56.695487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_16">
+    <text style="font: 700 7px 'Times New Roman', serif; text-anchor: middle" x="31.05" y="68.138984" transform="rotate(-0 31.05 68.138984)">Caries</text>
+   </g>
+   <g id="text_17">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="31.05" y="80.491641" transform="rotate(-0 31.05 80.491641)">1,550 crops</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="31.05" y="92.725078" transform="rotate(-0 31.05 92.725078)">weight 0.41</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 700 7px 'Times New Roman', serif; text-anchor: middle" x="93.15" y="68.193672" transform="rotate(-0 93.15 68.193672)">Deep Caries</text>
+   </g>
+   <g id="text_20">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="93.15" y="80.491641" transform="rotate(-0 93.15 80.491641)">438 crops</text>
+   </g>
+   <g id="text_21">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="93.15" y="92.725078" transform="rotate(-0 93.15 92.725078)">weight 1.44</text>
+   </g>
+   <g id="text_22">
+    <text style="font: 700 7px 'Times New Roman', serif; text-anchor: middle" x="155.25" y="68.138984" transform="rotate(-0 155.25 68.138984)">Impacted</text>
+   </g>
+   <g id="text_23">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="155.25" y="80.491641" transform="rotate(-0 155.25 80.491641)">412 crops</text>
+   </g>
+   <g id="text_24">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="155.25" y="92.725078" transform="rotate(-0 155.25 92.725078)">weight 1.53</text>
+   </g>
+   <g id="text_25">
+    <text style="font: 700 7px 'Times New Roman', serif; text-anchor: middle" x="217.35" y="68.193672" transform="rotate(-0 217.35 68.193672)">Periapical Lesion</text>
+   </g>
+   <g id="text_26">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="217.35" y="80.491641" transform="rotate(-0 217.35 80.491641)">120 crops</text>
+   </g>
+   <g id="text_27">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="217.35" y="92.725078" transform="rotate(-0 217.35 92.725078)">weight 5.25</text>
+   </g>
+   <g id="text_28">
+    <text style="font: italic 6.6px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="105.949359" transform="rotate(-0 124.2 105.949359)">No healthy class: the output names the closest of the four findings, one label per tooth.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p756af9b822">
+   <rect x="0" y="0" width="248.4" height="187.2"/>
+  </clipPath>
+ </defs>
+</svg>

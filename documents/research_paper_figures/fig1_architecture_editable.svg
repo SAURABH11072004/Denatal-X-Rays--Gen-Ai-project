@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="244.935pt" height="320.4pt" viewBox="0 0 244.935 320.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-24T07:10:58.601592</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 320.4 
+L 244.935 320.4 
+L 244.935 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 5.04 60.84 
+L 213.84 60.84 
+Q 216.72 60.84 216.72 57.96 
+L 216.72 5.04 
+Q 216.72 2.16 213.84 2.16 
+L 5.04 2.16 
+Q 2.16 2.16 2.16 5.04 
+L 2.16 57.96 
+Q 2.16 60.84 5.04 60.84 
+z
+" clip-path="url(#p58385ed12d)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 2.16 60.84 
+L 75.6 60.84 
+L 75.6 2.16 
+L 2.16 2.16 
+z
+" clip-path="url(#p58385ed12d)" style="fill: #e6e6e6; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 5.04 112.32 
+L 213.84 112.32 
+Q 216.72 112.32 216.72 109.44 
+L 216.72 75.96 
+Q 216.72 73.08 213.84 73.08 
+L 5.04 73.08 
+Q 2.16 73.08 2.16 75.96 
+L 2.16 109.44 
+Q 2.16 112.32 5.04 112.32 
+z
+" clip-path="url(#p58385ed12d)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 2.16 112.32 
+L 75.6 112.32 
+L 75.6 73.08 
+L 2.16 73.08 
+z
+" clip-path="url(#p58385ed12d)" style="fill: #e6e6e6; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 5.04 163.8 
+L 213.84 163.8 
+Q 216.72 163.8 216.72 160.92 
+L 216.72 127.44 
+Q 216.72 124.56 213.84 124.56 
+L 5.04 124.56 
+Q 2.16 124.56 2.16 127.44 
+L 2.16 160.92 
+Q 2.16 163.8 5.04 163.8 
+z
+" clip-path="url(#p58385ed12d)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 2.16 163.8 
+L 75.6 163.8 
+L 75.6 124.56 
+L 2.16 124.56 
+z
+" clip-path="url(#p58385ed12d)" style="fill: #e6e6e6; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 5.04 215.28 
+L 213.84 215.28 
+Q 216.72 215.28 216.72 212.4 
+L 216.72 178.92 
+Q 216.72 176.04 213.84 176.04 
+L 5.04 176.04 
+Q 2.16 176.04 2.16 178.92 
+L 2.16 212.4 
+Q 2.16 215.28 5.04 215.28 
+z
+" clip-path="url(#p58385ed12d)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 2.16 215.28 
+L 75.6 215.28 
+L 75.6 176.04 
+L 2.16 176.04 
+z
+" clip-path="url(#p58385ed12d)" style="fill: #e6e6e6; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 5.04 266.76 
+L 213.84 266.76 
+Q 216.72 266.76 216.72 263.88 
+L 216.72 230.4 
+Q 216.72 227.52 213.84 227.52 
+L 5.04 227.52 
+Q 2.16 227.52 2.16 230.4 
+L 2.16 263.88 
+Q 2.16 266.76 5.04 266.76 
+z
+" clip-path="url(#p58385ed12d)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 2.16 266.76 
+L 75.6 266.76 
+L 75.6 227.52 
+L 2.16 227.52 
+z
+" clip-path="url(#p58385ed12d)" style="fill: #e6e6e6; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 5.04 318.24 
+L 213.84 318.24 
+Q 216.72 318.24 216.72 315.36 
+L 216.72 281.88 
+Q 216.72 279 213.84 279 
+L 5.04 279 
+Q 2.16 279 2.16 281.88 
+L 2.16 315.36 
+Q 2.16 318.24 5.04 318.24 
+z
+" clip-path="url(#p58385ed12d)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 2.16 318.24 
+L 75.6 318.24 
+L 75.6 279 
+L 2.16 279 
+z
+" clip-path="url(#p58385ed12d)" style="fill: #e6e6e6; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 216.72 298.62 
+L 231.12 298.62 
+L 231.12 31.5 
+" clip-path="url(#p58385ed12d)" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font: 700 7px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="38.88" y="33.123672" transform="rotate(-0 38.88 33.123672)">1. Patient inputs</text>
+   </g>
+   <g id="text_2">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="13.687219" transform="rotate(-0 81.36 13.687219)">▪  Medical reports / laboratory results</text>
+   </g>
+   <g id="text_3">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="23.407219" transform="rotate(-0 81.36 23.407219)">▪  X-ray images</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="33.133594" transform="rotate(-0 81.36 33.133594)">▪  MRI / DICOM (future phase)</text>
+   </g>
+   <g id="text_5">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="42.847219" transform="rotate(-0 81.36 42.847219)">▪  Symptoms and history</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="52.573594" transform="rotate(-0 81.36 52.573594)">▪  Previous dated records</text>
+   </g>
+   <g id="text_7">
+    <text style="font: 700 7px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="38.88" y="94.323672" transform="rotate(-0 38.88 94.323672)">2. Secure patient data</text>
+   </g>
+   <g id="text_8">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="84.607219" transform="rotate(-0 81.36 84.607219)">▪  Login and profile</text>
+   </g>
+   <g id="text_9">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="94.333594" transform="rotate(-0 81.36 94.333594)">▪  Patient-specific records</text>
+   </g>
+   <g id="text_10">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="104.047219" transform="rotate(-0 81.36 104.047219)">▪  Date-wise history</text>
+   </g>
+   <g id="text_11">
+    <text style="font: 700 7px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(17.685859 142.272117)">3. Multimodal</text>
+    <text style="font: 700 7px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(17.946719 149.225852)">interpretation</text>
+   </g>
+   <g id="text_12">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="136.093594" transform="rotate(-0 81.36 136.093594)">▪  Pretrained multimodal models</text>
+   </g>
+   <g id="text_13">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="145.807219" transform="rotate(-0 81.36 145.807219)">▪  Structured findings and values</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="155.527219" transform="rotate(-0 81.36 155.527219)">▪  Evidence and uncertainty</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 700 7px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(15.927656 193.79368)">4. Longitudinal</text>
+    <text style="font: 700 7px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(16.805391 200.760539)">health analysis</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="187.573594" transform="rotate(-0 81.36 187.573594)">▪  Compare current and previous records</text>
+   </g>
+   <g id="text_17">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="197.293594" transform="rotate(-0 81.36 197.293594)">▪  Trend detection</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="207.007219" transform="rotate(-0 81.36 207.007219)">▪  Patient health summary</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 700 7px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(8.157656 245.295008)">5. Medical RAG and</text>
+    <text style="font: 700 7px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(21.774844 252.122961)">verification</text>
+   </g>
+   <g id="text_20">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="239.047219" transform="rotate(-0 81.36 239.047219)">▪  Condition-specific knowledge</text>
+   </g>
+   <g id="text_21">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="248.767219" transform="rotate(-0 81.36 248.767219)">▪  Evidence-grounded explanation</text>
+   </g>
+   <g id="text_22">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="258.493594" transform="rotate(-0 81.36 258.493594)">▪  Clinician review if needed</text>
+   </g>
+   <g id="text_23">
+    <text style="font: 700 7px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(12.312266 296.775008)">6. Patient-centred</text>
+    <text style="font: 700 7px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(27.597969 303.602961)">outputs</text>
+   </g>
+   <g id="text_24">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="290.527219" transform="rotate(-0 81.36 290.527219)">▪  Potential findings / risk signals</text>
+   </g>
+   <g id="text_25">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="300.253594" transform="rotate(-0 81.36 300.253594)">▪  Explainable timeline</text>
+   </g>
+   <g id="text_26">
+    <text style="font: 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="81.36" y="309.967219" transform="rotate(-0 81.36 309.967219)">▪  Suggested next steps / specialist category</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 109.44 60.84 
+Q 109.44 66.96 109.44 72.297376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 110.84 69.497376 
+L 109.44 72.297376 
+L 108.04 69.497376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 109.44 112.32 
+Q 109.44 118.44 109.44 123.777376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 110.84 120.977376 
+L 109.44 123.777376 
+L 108.04 120.977376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 109.44 163.8 
+Q 109.44 169.92 109.44 175.257376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 110.84 172.457376 
+L 109.44 175.257376 
+L 108.04 172.457376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 109.44 215.28 
+Q 109.44 221.4 109.44 226.737376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 110.84 223.937376 
+L 109.44 226.737376 
+L 108.04 223.937376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 109.44 266.76 
+Q 109.44 272.88 109.44 278.217376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 110.84 275.417376 
+L 109.44 278.217376 
+L 108.04 275.417376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 231.12 31.5 
+Q 223.92 31.5 217.502624 31.5 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 220.302624 32.9 
+L 217.502624 31.5 
+L 220.302624 30.1 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_27">
+    <text style="font: italic 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(241.393594 216.58275) rotate(-90)">Evaluation and iterative improvement</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p58385ed12d">
+   <rect x="-0.72" y="-2.16" width="252" height="324.72"/>
+  </clipPath>
+ </defs>
+</svg>

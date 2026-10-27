@@ -1,0 +1,19 @@
+scripts/benchmark_inference.py: files = sorted(validation_data/*.png)[: images + warmup] = 12; timing skips k < warmup (2);
+image_sizes = sorted set over ALL 12 loaded images (warm-up included).
+
+0 warm-up val_0-checkpoint.png 2872x1504 1a27e2512fad
+1 warm-up val_0.png 2872x1504 1a27e2512fad
+2 timed   val_1.png 1976x976 86571d357cb9
+3 timed   val_10.png 2874x1316 71789247c6c6
+4 timed   val_11.png 2884x1504 9e334d584631
+5 timed   val_12.png 2794x1316 6c461ec61f59
+6 timed   val_13.png 2967x1316 eeda75fe7c73
+7 timed   val_14.png 2728x1316 11dd00111c50
+8 timed   val_15.png 2892x1316 6d22796019f8
+9 timed   val_16.png 2870x1316 38333173fb96
+10 timed   val_17.png 3076x1536 da954ba6f6dd
+11 timed   val_18.png 3003x1316 84a04df1afcd
+
+recorded sizes (11): ['1976x976', '2728x1316', '2794x1316', '2870x1316', '2872x1504', '2874x1316', '2884x1504', '2892x1316', '2967x1316', '3003x1316', '3076x1536']
+timed sizes (10): ['1976x976', '2728x1316', '2794x1316', '2870x1316', '2874x1316', '2884x1504', '2892x1316', '2967x1316', '3003x1316', '3076x1536']
+reconstruction equals record: True

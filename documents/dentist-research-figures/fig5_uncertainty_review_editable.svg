@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="248.4pt" height="192.24pt" viewBox="0 0 248.4 192.24" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-24T09:09:00.063528</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 192.24 
+L 248.4 192.24 
+L 248.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 0 82.56 
+L 111.6 82.56 
+L 111.6 12.96 
+L 0 12.96 
+z
+" clip-path="url(#p46549a5a93)" style="fill: #ebebeb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 0 82.56 
+L 248.4 82.56 
+L 248.4 12.96 
+L 0 12.96 
+L 0 82.56 
+z
+" clip-path="url(#p46549a5a93)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 2.16 136.8 
+L 75.84 136.8 
+Q 78 136.8 78 134.64 
+L 78 94.08 
+Q 78 91.92 75.84 91.92 
+L 2.16 91.92 
+Q 0 91.92 0 94.08 
+L 0 134.64 
+Q 0 136.8 2.16 136.8 
+z
+" clip-path="url(#p46549a5a93)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 87.36 136.8 
+L 161.04 136.8 
+Q 163.2 136.8 163.2 134.64 
+L 163.2 94.08 
+Q 163.2 91.92 161.04 91.92 
+L 87.36 91.92 
+Q 85.2 91.92 85.2 94.08 
+L 85.2 134.64 
+Q 85.2 136.8 87.36 136.8 
+z
+" clip-path="url(#p46549a5a93)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 172.56 136.8 
+L 246.24 136.8 
+Q 248.4 136.8 248.4 134.64 
+L 248.4 94.08 
+Q 248.4 91.92 246.24 91.92 
+L 172.56 91.92 
+Q 170.4 91.92 170.4 94.08 
+L 170.4 134.64 
+Q 170.4 136.8 172.56 136.8 
+z
+" clip-path="url(#p46549a5a93)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 2.16 190.8 
+L 246.24 190.8 
+Q 248.4 190.8 248.4 188.64 
+L 248.4 157.68 
+Q 248.4 155.52 246.24 155.52 
+L 2.16 155.52 
+Q 0 155.52 0 157.68 
+L 0 188.64 
+Q 0 190.8 2.16 190.8 
+z
+" clip-path="url(#p46549a5a93)" style="fill: #ffffff; stroke-dasharray: 1.8,1.2; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 111.6 12.96 
+L 111.6 82.56 
+" clip-path="url(#p46549a5a93)" style="fill: none; stroke: #000000; stroke-width: 0.6"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 0 26.88 
+L 248.4 26.88 
+" clip-path="url(#p46549a5a93)" style="fill: none; stroke: #000000; stroke-width: 0.3"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 0 40.8 
+L 248.4 40.8 
+" clip-path="url(#p46549a5a93)" style="fill: none; stroke: #000000; stroke-width: 0.3"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 0 54.72 
+L 248.4 54.72 
+" clip-path="url(#p46549a5a93)" style="fill: none; stroke: #000000; stroke-width: 0.3"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 0 68.64 
+L 248.4 68.64 
+" clip-path="url(#p46549a5a93)" style="fill: none; stroke: #000000; stroke-width: 0.3"/>
+   </g>
+   <g id="text_1">
+    <text style="font: 700 8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="0" y="8.328125" transform="rotate(-0 0 8.328125)">Deployed in the application</text>
+   </g>
+   <g id="text_2">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="21.714727" transform="rotate(-0 4.32 21.714727)">normalized entropy ≥ 0.397</text>
+   </g>
+   <g id="text_3">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="127.44" y="21.721758" transform="rotate(-0 127.44 21.721758)">‘abstained’ + review</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 114.48 19.92 
+Q 119.16 19.92 123.184044 19.92 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 119.684044 18.12 
+L 123.184044 19.92 
+L 119.684044 21.72 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="35.634727" transform="rotate(-0 4.32 35.634727)">flip disagreement ≥ 0.076</text>
+   </g>
+   <g id="text_5">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="127.44" y="35.641758" transform="rotate(-0 127.44 35.641758)">‘unstable under flip’ + review</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 114.48 33.84 
+Q 119.16 33.84 123.184044 33.84 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 119.684044 32.04 
+L 123.184044 33.84 
+L 119.684044 35.64 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="49.554727" transform="rotate(-0 4.32 49.554727)">mask instability ≥ 0.30</text>
+   </g>
+   <g id="text_7">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="127.44" y="49.561758" transform="rotate(-0 127.44 49.561758)">‘mask unstable’ + review</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 114.48 47.76 
+Q 119.16 47.76 123.184044 47.76 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 119.684044 45.96 
+L 123.184044 47.76 
+L 119.684044 49.56 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="63.481758" transform="rotate(-0 4.32 63.481758)">detection score &lt; 0.50</text>
+   </g>
+   <g id="text_9">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="127.44" y="63.481758" transform="rotate(-0 127.44 63.481758)">‘low detection score’ + review</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 114.48 61.68 
+Q 119.16 61.68 123.184044 61.68 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 119.684044 59.88 
+L 123.184044 61.68 
+L 119.684044 63.48 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="77.394727" transform="rotate(-0 4.32 77.394727)">numbering issue / no number</text>
+   </g>
+   <g id="text_11">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="127.44" y="77.394727" transform="rotate(-0 127.44 77.394727)">number flag + review</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 114.48 75.6 
+Q 119.16 75.6 123.184044 75.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 119.684044 73.8 
+L 123.184044 75.6 
+L 119.684044 77.4 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 41.4 82.56 
+Q 41.4 87.24 41.4 91.264044 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 43.2 87.764044 
+L 41.4 91.264044 
+L 39.6 87.764044 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="39" y="101.641055" transform="rotate(-0 39 101.641055)">Final result</text>
+   </g>
+   <g id="text_13">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="39" y="111.361758" transform="rotate(-0 39 111.361758)">top class + raw score;</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="39" y="120.961758" transform="rotate(-0 39 120.961758)">review mark if</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="39" y="130.561758" transform="rotate(-0 39 130.561758)">abstained</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="124.2" y="101.699648" transform="rotate(-0 124.2 101.699648)">Review queue</text>
+   </g>
+   <g id="text_17">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="124.2" y="111.354727" transform="rotate(-0 124.2 111.354727)">images ordered by</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="124.2" y="120.961758" transform="rotate(-0 124.2 120.961758)">combined score</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="209.4" y="101.697305" transform="rotate(-0 209.4 101.697305)">Second approver</text>
+   </g>
+   <g id="text_20">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="209.4" y="111.354727" transform="rotate(-0 209.4 111.354727)">only approved pool /</text>
+   </g>
+   <g id="text_21">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="209.4" y="120.961758" transform="rotate(-0 209.4 120.961758)">upload records</text>
+   </g>
+   <g id="text_22">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="209.4" y="130.561758" transform="rotate(-0 209.4 130.561758)">exportable</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 78 114.36 
+Q 81.6 114.36 84.544044 114.36 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 81.044044 112.56 
+L 84.544044 114.36 
+L 81.044044 116.16 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 163.2 114.36 
+Q 166.8 114.36 169.744044 114.36 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 166.244044 112.56 
+L 169.744044 114.36 
+L 166.244044 116.16 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_23">
+    <text style="font: 700 8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="0" y="150.888125" transform="rotate(-0 0 150.888125)">Evaluated offline only (not deployed)</text>
+   </g>
+   <g id="text_24">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="165.354727" transform="rotate(-0 4.32 165.354727)">• temperature scaling, T = 0.95 fitted on calibration (app scores stay raw)</text>
+   </g>
+   <g id="text_25">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="174.961758" transform="rotate(-0 4.32 174.961758)">• 33 alternative abstention rules; the best candidate failed on validation</text>
+   </g>
+   <g id="text_26">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="184.554727" transform="rotate(-0 4.32 184.554727)">• retraining with approved reviews: implemented, never run</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p46549a5a93">
+   <rect x="0" y="0" width="248.4" height="237.6"/>
+  </clipPath>
+ </defs>
+</svg>

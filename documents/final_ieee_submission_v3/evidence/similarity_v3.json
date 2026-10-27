@@ -1,0 +1,141 @@
+{
+ "prose_words": 6448,
+ "missing_abstracts": [
+  "rajpurkar"
+ ],
+ "n_sources": 126,
+ "results": {
+  "N=8": {
+   "by_group_pct": {
+    "literature": 0.0,
+    "own": 3.82,
+    "earlier version of this paper": 74.77
+   },
+   "overall_excluding_earlier_version_pct": 3.82,
+   "top_sources": [
+    {
+     "source": "earlier version (PDF): documents/dentist-research-paper.pdf",
+     "group": "earlier version of this paper",
+     "matched_words": 4821,
+     "pct": 74.77,
+     "longest_run": "predictions changed for about 10 of teeth even when the detector box overlapped the annotation with iou 0.8 1.0 the classifier is therefore sensitive to small c"
+    },
+    {
+     "source": "project doc: documents\\final_capstone\\DentaMind_AI_Capstone_Report.docx",
+     "group": "own",
+     "matched_words": 116,
+     "pct": 1.8,
+     "longest_run": "the hindi and marathi wording has not been reviewed by a native-speaking dental professional"
+    },
+    {
+     "source": "project doc: README.md",
+     "group": "own",
+     "matched_words": 31,
+     "pct": 0.48,
+     "longest_run": "the hindi and marathi report wording has not been reviewed by"
+    },
+    {
+     "source": "project doc: docs\\KNOWN_LIMITATIONS.md",
+     "group": "own",
+     "matched_words": 29,
+     "pct": 0.45,
+     "longest_run": "an unconfirmed research draft until a named reviewer signs it"
+    },
+    {
+     "source": "project doc: Data\\reports\\end_to_end_validation_evaluation.md",
+     "group": "own",
+     "matched_words": 29,
+     "pct": 0.45,
+     "longest_run": "the classifier called them caries 475 periapical lesion 71 deep caries 23"
+    },
+    {
+     "source": "project doc: documents\\123B1B260-Research_Paper_IEEE_Updated.docx",
+     "group": "own",
+     "matched_words": 27,
+     "pct": 0.42,
+     "longest_run": "section ii reviews related work and section iii states the"
+    },
+    {
+     "source": "project doc: docs\\UNCERTAINTY_AND_ACTIVE_LEARNING.md",
+     "group": "own",
+     "matched_words": 17,
+     "pct": 0.26,
+     "longest_run": "on test the entropy flag marks 54.2 of crops"
+    },
+    {
+     "source": "project doc: docs\\FINAL_ACCEPTANCE_REPORT.md",
+     "group": "own",
+     "matched_words": 14,
+     "pct": 0.22,
+     "longest_run": "the hindi and marathi wording has not been reviewed by a native-speaking dental professional"
+    }
+   ]
+  },
+  "N=5": {
+   "by_group_pct": {
+    "literature": 0.31,
+    "own": 13.83,
+    "earlier version of this paper": 78.52
+   },
+   "overall_excluding_earlier_version_pct": 14.08,
+   "top_sources": [
+    {
+     "source": "earlier version (PDF): documents/dentist-research-paper.pdf",
+     "group": "earlier version of this paper",
+     "matched_words": 5063,
+     "pct": 78.52,
+     "longest_run": "predictions changed for about 10 of teeth even when the detector box overlapped the annotation with iou 0.8 1.0 the classifier is therefore sensitive to small c"
+    },
+    {
+     "source": "project doc: documents\\final_capstone\\DentaMind_AI_Capstone_Report.docx",
+     "group": "own",
+     "matched_words": 413,
+     "pct": 6.41,
+     "longest_run": "the hindi and marathi wording has not been reviewed by a native-speaking dental professional"
+    },
+    {
+     "source": "project doc: docs\\KNOWN_LIMITATIONS.md",
+     "group": "own",
+     "matched_words": 160,
+     "pct": 2.48,
+     "longest_run": "an unconfirmed research draft until a named reviewer signs it"
+    },
+    {
+     "source": "project doc: Data\\reports\\end_to_end_validation_evaluation.md",
+     "group": "own",
+     "matched_words": 102,
+     "pct": 1.58,
+     "longest_run": "from 7 9 to 4 9 and its precision on matched teeth"
+    },
+    {
+     "source": "project doc: docs\\UNCERTAINTY_AND_ACTIVE_LEARNING.md",
+     "group": "own",
+     "matched_words": 71,
+     "pct": 1.1,
+     "longest_run": "unusable each record stores the model output the reviewer saw"
+    },
+    {
+     "source": "project doc: README.md",
+     "group": "own",
+     "matched_words": 57,
+     "pct": 0.88,
+     "longest_run": "the hindi and marathi report wording has not been reviewed by"
+    },
+    {
+     "source": "project doc: docs\\MODEL_TRAINING.md",
+     "group": "own",
+     "matched_words": 49,
+     "pct": 0.76,
+     "longest_run": "caries deep caries impacted periapical lesion"
+    },
+    {
+     "source": "project doc: docs\\FINAL_ACCEPTANCE_REPORT.md",
+     "group": "own",
+     "matched_words": 47,
+     "pct": 0.73,
+     "longest_run": "the hindi and marathi wording has not been reviewed by a native-speaking dental professional"
+    }
+   ]
+  }
+ }
+}

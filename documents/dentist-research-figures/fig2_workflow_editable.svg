@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="248.4pt" height="212.4pt" viewBox="0 0 248.4 212.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-24T09:08:57.962551</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 212.4 
+L 248.4 212.4 
+L 248.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 0 34.32 
+L 113.4 34.32 
+L 113.4 8.64 
+L 0 8.64 
+z
+" clip-path="url(#p32d6e95257)" style="fill: #ebebeb; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 0 66.48 
+L 113.4 66.48 
+L 113.4 40.8 
+L 0 40.8 
+z
+" clip-path="url(#p32d6e95257)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 0 98.64 
+L 113.4 98.64 
+L 113.4 72.96 
+L 0 72.96 
+z
+" clip-path="url(#p32d6e95257)" style="fill: #ebebeb; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 0 130.8 
+L 113.4 130.8 
+L 113.4 105.12 
+L 0 105.12 
+z
+" clip-path="url(#p32d6e95257)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 0 162.96 
+L 113.4 162.96 
+L 113.4 137.28 
+L 0 137.28 
+z
+" clip-path="url(#p32d6e95257)" style="fill: #ebebeb; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 135 34.32 
+L 248.4 34.32 
+L 248.4 8.64 
+L 135 8.64 
+z
+" clip-path="url(#p32d6e95257)" style="fill: #ebebeb; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 135 66.48 
+L 248.4 66.48 
+L 248.4 40.8 
+L 135 40.8 
+z
+" clip-path="url(#p32d6e95257)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 135 98.64 
+L 248.4 98.64 
+L 248.4 72.96 
+L 135 72.96 
+z
+" clip-path="url(#p32d6e95257)" style="fill: #ebebeb; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 135 130.8 
+L 248.4 130.8 
+L 248.4 105.12 
+L 135 105.12 
+z
+" clip-path="url(#p32d6e95257)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 135 162.96 
+L 248.4 162.96 
+L 248.4 137.28 
+L 135 137.28 
+z
+" clip-path="url(#p32d6e95257)" style="fill: #ebebeb; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 2.16 199.44 
+L 111.24 199.44 
+Q 113.4 199.44 113.4 197.28 
+L 113.4 175.92 
+Q 113.4 173.76 111.24 173.76 
+L 2.16 173.76 
+Q 0 173.76 0 175.92 
+L 0 197.28 
+Q 0 199.44 2.16 199.44 
+z
+" clip-path="url(#p32d6e95257)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 137.16 199.44 
+L 246.24 199.44 
+Q 248.4 199.44 248.4 197.28 
+L 248.4 175.92 
+Q 248.4 173.76 246.24 173.76 
+L 137.16 173.76 
+Q 135 173.76 135 175.92 
+L 135 197.28 
+Q 135 199.44 137.16 199.44 
+z
+" clip-path="url(#p32d6e95257)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 113.4 150.12 
+L 124.2 150.12 
+" clip-path="url(#p32d6e95257)" style="fill: none; stroke: #000000; stroke-width: 0.6"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 124.2 150.12 
+L 124.2 4.32 
+" clip-path="url(#p32d6e95257)" style="fill: none; stroke: #000000; stroke-width: 0.6"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 124.2 4.32 
+L 191.7 4.32 
+" clip-path="url(#p32d6e95257)" style="fill: none; stroke: #000000; stroke-width: 0.6"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 191.7 162.96 
+L 191.7 168.72 
+" clip-path="url(#p32d6e95257)" style="fill: none; stroke: #000000; stroke-width: 0.6"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 56.7 168.72 
+L 191.7 168.72 
+" clip-path="url(#p32d6e95257)" style="fill: none; stroke: #000000; stroke-width: 0.6"/>
+   </g>
+   <g id="text_1">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="18.412031" transform="rotate(-0 4.32 18.412031)">1  preprocess</text>
+   </g>
+   <g id="text_2">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="28.074727" transform="rotate(-0 4.32 28.074727)">RGB [0, 1]; quality flags</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 56.7 34.32 
+Q 56.7 37.56 56.7 40.144044 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 58.5 36.644044 
+L 56.7 40.144044 
+L 54.9 36.644044 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="50.521055" transform="rotate(-0 4.32 50.521055)">2  detect</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="60.241758" transform="rotate(-0 4.32 60.241758)">tooth boxes, score ≥ 0.3</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 56.7 66.48 
+Q 56.7 69.72 56.7 72.304044 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 58.5 68.804044 
+L 56.7 72.304044 
+L 54.9 68.804044 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="82.681055" transform="rotate(-0 4.32 82.681055)">3  number</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="92.394727" transform="rotate(-0 4.32 92.394727)">FDI code or ‘unassigned’</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 56.7 98.64 
+Q 56.7 101.88 56.7 104.464044 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 58.5 100.964044 
+L 56.7 104.464044 
+L 54.9 100.964044 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="114.885" transform="rotate(-0 4.32 114.885)">4  segment</text>
+   </g>
+   <g id="text_8">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="124.561758" transform="rotate(-0 4.32 124.561758)">instance masks (optional)</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 56.7 130.8 
+Q 56.7 134.04 56.7 136.624044 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 58.5 133.124044 
+L 56.7 136.624044 
+L 54.9 133.124044 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="147.001055" transform="rotate(-0 4.32 147.001055)">5  match</text>
+   </g>
+   <g id="text_10">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="4.32" y="156.721758" transform="rotate(-0 4.32 156.721758)">mask ↔ box, IoU ≥ 0.5</text>
+   </g>
+   <g id="text_11">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="139.32" y="18.412617" transform="rotate(-0 139.32 18.412617)">6  classify</text>
+   </g>
+   <g id="text_12">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="139.32" y="28.081758" transform="rotate(-0 139.32 28.081758)">softmax over 4 classes</text>
+   </g>
+   <g id="patch_18">
+    <path d="M 191.7 34.32 
+Q 191.7 37.56 191.7 40.144044 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 193.5 36.644044 
+L 191.7 40.144044 
+L 189.9 36.644044 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="139.32" y="50.572617" transform="rotate(-0 139.32 50.572617)">7  classify_tta</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="139.32" y="60.241758" transform="rotate(-0 139.32 60.241758)">same on flipped crops</text>
+   </g>
+   <g id="patch_19">
+    <path d="M 191.7 66.48 
+Q 191.7 69.72 191.7 72.304044 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 193.5 68.804044 
+L 191.7 72.304044 
+L 189.9 68.804044 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_15">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="139.32" y="82.739648" transform="rotate(-0 139.32 82.739648)">8  flip passes</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="139.32" y="92.394727" transform="rotate(-0 139.32 92.394727)">detector / segmenter, flipped</text>
+   </g>
+   <g id="patch_20">
+    <path d="M 191.7 98.64 
+Q 191.7 101.88 191.7 104.464044 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 193.5 100.964044 
+L 191.7 104.464044 
+L 189.9 100.964044 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_17">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="139.32" y="114.892617" transform="rotate(-0 139.32 114.892617)">9  region records</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="139.32" y="124.554727" transform="rotate(-0 139.32 124.554727)">signals, flags, review need</text>
+   </g>
+   <g id="patch_21">
+    <path d="M 191.7 130.8 
+Q 191.7 134.04 191.7 136.624044 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 193.5 133.124044 
+L 191.7 136.624044 
+L 189.9 133.124044 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_19">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="139.32" y="147.001055" transform="rotate(-0 139.32 147.001055)">10  final result</text>
+   </g>
+   <g id="text_20">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: start" x="139.32" y="156.721758" transform="rotate(-0 139.32 156.721758)">top class per tooth</text>
+   </g>
+   <g id="patch_22">
+    <path d="M 191.7 4.32 
+Q 191.7 6.48 191.7 7.984044 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 193.5 4.484044 
+L 191.7 7.984044 
+L 189.9 4.484044 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 56.7 168.72 
+Q 56.7 171.24 56.7 173.104044 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 58.5 169.604044 
+L 56.7 173.104044 
+L 54.9 169.604044 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 191.7 168.72 
+Q 191.7 171.24 191.7 173.104044 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 193.5 169.604044 
+L 191.7 173.104044 
+L 189.9 169.604044 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_21">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="56.7" y="183.537305" transform="rotate(-0 56.7 183.537305)">Report draft</text>
+   </g>
+   <g id="text_22">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="56.7" y="193.201758" transform="rotate(-0 56.7 193.201758)">status: unconfirmed draft</text>
+   </g>
+   <g id="text_23">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="191.7" y="183.539648" transform="rotate(-0 191.7 183.539648)">Review queue</text>
+   </g>
+   <g id="text_24">
+    <text style="font: 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="191.7" y="193.194727" transform="rotate(-0 191.7 193.194727)">ordered by combined score</text>
+   </g>
+   <g id="text_25">
+    <text style="font: italic 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="124.2" y="207.547219" transform="rotate(-0 124.2 207.547219)">A step that cannot run is recorded as unavailable or failed; independent steps still run.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p32d6e95257">
+   <rect x="0" y="-0" width="248.4" height="216"/>
+  </clipPath>
+ </defs>
+</svg>

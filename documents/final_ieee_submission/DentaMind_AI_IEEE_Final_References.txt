@@ -1,0 +1,149 @@
+REFERENCES 
+[1] 
+R. H. Putra, E. R. Astuti, D. K. Putri, M. Widiasri, P. A. M. Laksanti, 
+H. Majidah, and N. Yoda, “Automated permanent tooth detection and 
+numbering on panoramic radiograph using a deep learning approach,” 
+Oral Surg. Oral Med. Oral Pathol. Oral Radiol., vol. 137, no. 5, pp. 
+537–544, May 2024, doi: 10.1016/j.oooo.2023.06.003. 
+[2] 
+R. B. Peker and C. O. Kurtoglu, “Evaluation of the performance of a 
+YOLOv10-based deep learning model for tooth detection and 
+numbering on panoramic radiographs of patients in the mixed dentition 
+period,” Diagnostics, vol. 15, no. 4, Art. no. 405, Feb. 2025, doi: 
+10.3390/diagnostics15040405. 
+[3] 
+Z. Tang, T. Mameno, T. Hayami, C. Lee, S. Date, K. Ikebe, and K. 
+Nozaki, “Assessment of the impact of missing teeth on deep learning-
+based tooth numbering method from panoramic X-rays,” IEEE Access, 
+vol. 13, pp. 50274–50281, 2025, doi: 10.1109/ACCESS.2025.3552203. 
+[4] 
+Y. Zhang, Y. Yu, Q. Li, H. Chen, Y. Liang, J. Chen, and J. Yin, “A 
+reliable multi-stage system for tooth instance segmentation and 
+12 
+numbering in panoramic radiographs,” IEEE J. Biomed. Health Inform., 
+early access, pp. 1–13, 2025, doi: 10.1109/JBHI.2025.3643805. 
+[5] 
+W. Brahmi, I. Jdey, and F. Drira, “Exploring the role of convolutional 
+neural networks (CNN) in dental radiography segmentation: A 
+comprehensive systematic literature review,” Eng. Appl. Artif. Intell., 
+vol. 133, Art. no. 108510, Jul. 2024, doi: 
+10.1016/j.engappai.2024.108510. 
+[6] 
+V. Szabó, K. Orhan, C. Dobó-Nagy, D. S. Veres, D. Manulis, M. 
+Ezhov, A. Sanders, and B. T. Szabó, “Deep learning-based periapical 
+lesion detection on panoramic radiographs,” Diagnostics, vol. 15, no. 4, 
+Art. no. 510, Feb. 2025, doi: 10.3390/diagnostics15040510. 
+[7] 
+Z. Raeisi, S. Rokhva, F. Rahmani, A. Goodarzi, and H. Najafzadeh, 
+“Multi-label diagnosis of dental conditions from panoramic x-rays using 
+attention-enhanced deep learning,” Oral Maxillofac. Surg., vol. 29, no. 
+1, Art. no. 166, Oct. 2025, doi: 10.1007/s10006-025-01463-y. 
+[8] 
+A. Bittar, R. Dascanio, and M. Özcan, “Artificial intelligence for dental 
+caries detection: An umbrella review,” J. Dent., vol. 175, Art. no. 
+106944, Dec. 2026, doi: 10.1016/j.jdent.2026.106944. 
+[9] 
+I. E. Hamamci, S. Er, O. F. Durugol, G. R. Cakmak, E. de la Rosa, E. 
+Simsar, et al., “DENTEX: Dental enumeration and tooth pathosis 
+detection benchmark for panoramic X-ray,” arXiv preprint 
+arXiv:2305.19112, 2023, doi: 10.48550/arXiv.2305.19112. 
+[10] I. E. Hamamci, S. Er, E. Simsar, A. Sekuboyina, M. Gundogar, B. 
+Stadlinger, A. Mehl, and B. Menze, “Diffusion-based hierarchical 
+multi-label object detection to analyze panoramic dental X-rays,” in 
+Medical Image Computing and Computer Assisted Intervention 
+(MICCAI 2023), Lecture Notes in Computer Science. Cham, 
+Switzerland: Springer, 2023, pp. 389–399, doi: 10.1007/978-3-031-
+43987-2_38. 
+[11] S. Kapoor and A. Narayanan, “Leakage and the reproducibility crisis in 
+machine-learning-based science,” Patterns, vol. 4, no. 9, Art. no. 
+100804, Sep. 2023, doi: 10.1016/j.patter.2023.100804. 
+[12] Y. Huang, Z. Sun, J. Chen, T. Yang, L. Xie, and X. Lin, “Near-
+duplicate contamination inflates brain MRI benchmark performance: A 
+size-matched, multi-seed MedNeXt-B study,” Front. Med., vol. 13, Art. 
+no. 1955863, Oct. 2026, doi: 10.3389/fmed.2026.1955863. 
+[13] A. Yalım, E. Aytugar, F. Kalabalık, and İ. Akdağ, “Comparative 
+analysis of deep learning architectures for automatic tooth segmentation 
+in panoramic dental radiographs: Balancing accuracy and computational 
+efficiency,” Diagnostics, vol. 16, no. 2, Art. no. 336, Jan. 2026, doi: 
+10.3390/diagnostics16020336. 
+[14] B. Ayhan, E. Ayan, and Y. Bayraktar, “A novel deep learning-based 
+perspective for tooth numbering and caries detection,” Clin. Oral 
+Investig., vol. 28, no. 3, Art. no. 178, Feb. 2024, doi: 10.1007/s00784-
+024-05566-w. 
+[15] L. Huang, S. Ruan, Y. Xing, and M. Feng, “A review of uncertainty 
+quantification in medical image analysis: Probabilistic and non-
+probabilistic methods,” Med. Image Anal., vol. 97, Art. no. 103223, 
+Oct. 2024, doi: 10.1016/j.media.2024.103223. 
+[16] B. Lambert, F. Forbes, S. Doyle, H. Dehaene, and M. Dojat, 
+“Trustworthy clinical AI solutions: A unified review of uncertainty 
+quantification in deep learning models for medical image analysis,” 
+Artif. Intell. Med., vol. 150, Art. no. 102830, Apr. 2024, doi: 
+10.1016/j.artmed.2024.102830. 
+[17] Y. Geifman and R. El-Yaniv, “Selective classification for deep neural 
+networks,” in Proc. Adv. Neural Inf. Process. Syst. (NIPS), vol. 30, 
+2017, pp. 4878–4887. 
+[18] A. Vazhentsev, I. Sviridov, A. Barseghyan, G. Kuzmin, A. Panchenko, 
+A. Nesterov, A. Shelmanov, and M. Panov, “Uncertainty-aware 
+abstention in medical diagnosis based on medical texts,” npj Artif. 
+Intell., 2026, doi: 10.1038/s44387-026-00097-z. 
+[19] G. Wang, W. Li, M. Aertsen, J. Deprest, S. Ourselin, and T. 
+Vercauteren, “Aleatoric uncertainty estimation with test-time 
+augmentation for medical image segmentation with convolutional 
+neural networks,” Neurocomputing, vol. 338, pp. 34–45, Apr. 2019, doi: 
+10.1016/j.neucom.2019.01.103. 
+[20] C. Guo, G. Pleiss, Y. Sun, and K. Q. Weinberger, “On calibration of 
+modern neural networks,” in Proc. 34th Int. Conf. Mach. Learn. 
+(ICML), PMLR, vol. 70, 2017, pp. 1321–1330. 
+[21] S. A. Balanya, J. Maroñas, and D. Ramos, “Adaptive temperature 
+scaling for robust calibration of deep neural networks,” Neural Comput. 
+Appl., vol. 36, no. 14, pp. 8073–8095, May 2024, doi: 10.1007/s00521-
+024-09505-4. 
+[22] M. P. Naeini, G. Cooper, and M. Hauskrecht, “Obtaining well 
+calibrated probabilities using Bayesian binning,” in Proc. AAAI Conf. 
+Artif. Intell., vol. 29, no. 1, 2015, doi: 10.1609/aaai.v29i1.9602. 
+[23] H. Wang, Q. Jin, S. Li, S. Liu, M. Wang, and Z. Song, “A 
+comprehensive survey on deep active learning in medical image 
+analysis,” Med. Image Anal., vol. 95, Art. no. 103201, Jul. 2024, doi: 
+10.1016/j.media.2024.103201. 
+[24] T. Truong, F. Khun Jush, and M. Lenga, “Benchmarking pretrained 
+vision embeddings for near- and duplicate detection in medical images,” 
+in Proc. IEEE Int. Symp. Biomed. Imaging (ISBI), 2024, pp. 1–5, doi: 
+10.1109/ISBI56570.2024.10635550. 
+[25] P. Rajpurkar and E. J. Topol, “Beyond assistance: The case for role 
+separation in AI-human radiology workflows,” Radiology, vol. 316, no. 
+1, Art. no. e250477, Jul. 2025, doi: 10.1148/radiol.250477. 
+[26] S. Ren, K. He, R. Girshick, and J. Sun, “Faster R-CNN: Towards real-
+time object detection with region proposal networks,” IEEE Trans. 
+Pattern Anal. Mach. Intell., vol. 39, no. 6, pp. 1137–1149, Jun. 2017, 
+doi: 10.1109/TPAMI.2016.2577031. 
+[27] K. He, G. Gkioxari, P. Dollár, and R. Girshick, “Mask R-CNN,” in 
+Proc. IEEE Int. Conf. Comput. Vis. (ICCV), 2017, pp. 2980–2988, doi: 
+10.1109/ICCV.2017.322. 
+[28] K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image 
+recognition,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit. 
+(CVPR), 2016, pp. 770–778, doi: 10.1109/CVPR.2016.90. 
+[29] T.-Y. Lin, P. Dollár, R. Girshick, K. He, B. Hariharan, and S. Belongie, 
+“Feature pyramid networks for object detection,” in Proc. IEEE Conf. 
+Comput. Vis. Pattern Recognit. (CVPR), 2017, pp. 936–944, doi: 
+10.1109/CVPR.2017.106. 
+[30] Dentistry — Designation System for Teeth and Areas of the Oral Cavity, 
+ISO Standard 3950:2016, International Organization for 
+Standardization, Geneva, Switzerland, 2016. 
+[31] J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li, and L. Fei-Fei, 
+“ImageNet: A large-scale hierarchical image database,” in Proc. IEEE 
+Conf. Comput. Vis. Pattern Recognit. (CVPR), 2009, pp. 248–255, doi: 
+10.1109/CVPR.2009.5206848. 
+[32] J. Lin, “Divergence measures based on the Shannon entropy,” IEEE 
+Trans. Inf. Theory, vol. 37, no. 1, pp. 145–151, Jan. 1991, doi: 
+10.1109/18.61115. 
+[33] W. J. Youden, “Index for rating diagnostic tests,” Cancer, vol. 3, no. 1, 
+pp. 32–35, 1950, doi: 10.1002/1097-0142(1950)3:1<32::AID-
+CNCR2820030106>3.0.CO;2-3. 
+[34] T.-Y. Lin, M. Maire, S. Belongie, J. Hays, P. Perona, D. Ramanan, P. 
+Dollár, and C. L. Zitnick, “Microsoft COCO: Common objects in 
+context,” in Computer Vision – ECCV 2014, Lecture Notes in Computer 
+Science. Cham, Switzerland: Springer, 2014, pp. 740–755, doi: 
+10.1007/978-3-319-10602-1_48. 
+[35] G. W. Brier, “Verification of forecasts expressed in terms of 
+probability,” Mon. Weather Rev., vol. 78, no. 1, pp. 1–3, Jan. 1950, doi: 
+10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2. 

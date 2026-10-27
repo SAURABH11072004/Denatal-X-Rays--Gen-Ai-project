@@ -1,0 +1,50 @@
+[
+ {
+  "class": "Caries",
+  "sample_id": "dentex_train_disease:339:1796",
+  "image": "training_data/quadrant-enumeration-disease/xrays/train_219.png",
+  "split": "train",
+  "bbox_xywh": [
+   584.0,
+   506.0,
+   152.0,
+   315.0
+  ]
+ },
+ {
+  "class": "Deep Caries",
+  "sample_id": "dentex_train_disease:440:2307",
+  "image": "training_data/quadrant-enumeration-disease/xrays/train_206.png",
+  "split": "train",
+  "bbox_xywh": [
+   1953.0,
+   734.0,
+   210.0,
+   203.0
+  ]
+ },
+ {
+  "class": "Impacted",
+  "sample_id": "dentex_train_disease:462:2399",
+  "image": "training_data/quadrant-enumeration-disease/xrays/train_651.png",
+  "split": "train",
+  "bbox_xywh": [
+   2168.0,
+   454.0,
+   171.0,
+   244.0
+  ]
+ },
+ {
+  "class": "Periapical Lesion",
+  "sample_id": "dentex_train_disease:202:1075",
+  "image": "training_data/quadrant-enumeration-disease/xrays/train_391.png",
+  "split": "train",
+  "bbox_xywh": [
+   1609.0,
+   454.0,
+   133.0,
+   409.0
+  ]
+ }
+]

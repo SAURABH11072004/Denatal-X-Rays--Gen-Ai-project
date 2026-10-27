@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="247.68pt" height="293.535pt" viewBox="0 0 247.68 293.535" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-24T07:10:59.949251</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 293.535 
+L 247.68 293.535 
+L 247.68 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 5.04 43.56 
+L 74.88 43.56 
+Q 77.76 43.56 77.76 40.68 
+L 77.76 14.76 
+Q 77.76 11.88 74.88 11.88 
+L 5.04 11.88 
+Q 2.16 11.88 2.16 14.76 
+L 2.16 40.68 
+Q 2.16 43.56 5.04 43.56 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 88.92 43.56 
+L 158.76 43.56 
+Q 161.64 43.56 161.64 40.68 
+L 161.64 14.76 
+Q 161.64 11.88 158.76 11.88 
+L 88.92 11.88 
+Q 86.04 11.88 86.04 14.76 
+L 86.04 40.68 
+Q 86.04 43.56 88.92 43.56 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 172.8 43.56 
+L 242.64 43.56 
+Q 245.52 43.56 245.52 40.68 
+L 245.52 14.76 
+Q 245.52 11.88 242.64 11.88 
+L 172.8 11.88 
+Q 169.92 11.88 169.92 14.76 
+L 169.92 40.68 
+Q 169.92 43.56 172.8 43.56 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 5.04 157.32 
+L 74.88 157.32 
+Q 77.76 157.32 77.76 154.44 
+L 77.76 57.96 
+Q 77.76 55.08 74.88 55.08 
+L 5.04 55.08 
+Q 2.16 55.08 2.16 57.96 
+L 2.16 154.44 
+Q 2.16 157.32 5.04 157.32 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 2.16 69.48 
+L 77.76 69.48 
+L 77.76 55.08 
+L 2.16 55.08 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #e6e6e6; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 7.92 91.08 
+L 72 91.08 
+L 72 76.68 
+L 7.92 76.68 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 7.92 114.84 
+L 72 114.84 
+L 72 100.44 
+L 7.92 100.44 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 7.92 138.6 
+L 72 138.6 
+L 72 124.2 
+L 7.92 124.2 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 88.92 157.32 
+L 158.76 157.32 
+Q 161.64 157.32 161.64 154.44 
+L 161.64 57.96 
+Q 161.64 55.08 158.76 55.08 
+L 88.92 55.08 
+Q 86.04 55.08 86.04 57.96 
+L 86.04 154.44 
+Q 86.04 157.32 88.92 157.32 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 86.04 69.48 
+L 161.64 69.48 
+L 161.64 55.08 
+L 86.04 55.08 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #e6e6e6; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 91.8 91.08 
+L 155.88 91.08 
+L 155.88 76.68 
+L 91.8 76.68 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 91.8 114.84 
+L 155.88 114.84 
+L 155.88 100.44 
+L 91.8 100.44 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 91.8 138.6 
+L 155.88 138.6 
+L 155.88 124.2 
+L 91.8 124.2 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 172.8 157.32 
+L 242.64 157.32 
+Q 245.52 157.32 245.52 154.44 
+L 245.52 57.96 
+Q 245.52 55.08 242.64 55.08 
+L 172.8 55.08 
+Q 169.92 55.08 169.92 57.96 
+L 169.92 154.44 
+Q 169.92 157.32 172.8 157.32 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 169.92 69.48 
+L 245.52 69.48 
+L 245.52 55.08 
+L 169.92 55.08 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #e6e6e6; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 175.68 91.08 
+L 239.76 91.08 
+L 239.76 76.68 
+L 175.68 76.68 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 175.68 114.84 
+L 239.76 114.84 
+L 239.76 100.44 
+L 175.68 100.44 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 175.68 138.6 
+L 239.76 138.6 
+L 239.76 124.2 
+L 175.68 124.2 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 5.04 195.48 
+L 242.64 195.48 
+Q 245.52 195.48 245.52 192.6 
+L 245.52 172.44 
+Q 245.52 169.56 242.64 169.56 
+L 5.04 169.56 
+Q 2.16 169.56 2.16 172.44 
+L 2.16 192.6 
+Q 2.16 195.48 5.04 195.48 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #e6e6e6; stroke: #000000; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 5.04 236.52 
+L 242.64 236.52 
+Q 245.52 236.52 245.52 233.64 
+L 245.52 210.6 
+Q 245.52 207.72 242.64 207.72 
+L 5.04 207.72 
+Q 2.16 207.72 2.16 210.6 
+L 2.16 233.64 
+Q 2.16 236.52 5.04 236.52 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 8.64 281.16 
+L 47.52 281.16 
+Q 50.4 281.16 50.4 278.28 
+L 50.4 253.8 
+Q 50.4 250.92 47.52 250.92 
+L 8.64 250.92 
+Q 5.76 250.92 5.76 253.8 
+L 5.76 278.28 
+Q 5.76 281.16 8.64 281.16 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 56.52 281.16 
+L 95.4 281.16 
+Q 98.28 281.16 98.28 278.28 
+L 98.28 253.8 
+Q 98.28 250.92 95.4 250.92 
+L 56.52 250.92 
+Q 53.64 250.92 53.64 253.8 
+L 53.64 278.28 
+Q 53.64 281.16 56.52 281.16 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 104.4 281.16 
+L 143.28 281.16 
+Q 146.16 281.16 146.16 278.28 
+L 146.16 253.8 
+Q 146.16 250.92 143.28 250.92 
+L 104.4 250.92 
+Q 101.52 250.92 101.52 253.8 
+L 101.52 278.28 
+Q 101.52 281.16 104.4 281.16 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 152.28 281.16 
+L 191.16 281.16 
+Q 194.04 281.16 194.04 278.28 
+L 194.04 253.8 
+Q 194.04 250.92 191.16 250.92 
+L 152.28 250.92 
+Q 149.4 250.92 149.4 253.8 
+L 149.4 278.28 
+Q 149.4 281.16 152.28 281.16 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 200.16 281.16 
+L 239.04 281.16 
+Q 241.92 281.16 241.92 278.28 
+L 241.92 253.8 
+Q 241.92 250.92 239.04 250.92 
+L 200.16 250.92 
+Q 197.28 250.92 197.28 253.8 
+L 197.28 278.28 
+Q 197.28 281.16 200.16 281.16 
+z
+" clip-path="url(#pe150a72d9e)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 28.08 243.72 
+L 219.6 243.72 
+" clip-path="url(#pe150a72d9e)" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 123.84 236.52 
+L 123.84 243.72 
+" clip-path="url(#pe150a72d9e)" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font: 700 7.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="123.84" y="7.139648" transform="rotate(-0 123.84 7.139648)">Multimodal medical inputs</text>
+   </g>
+   <g id="text_2">
+    <text style="font: 700 6.9px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="39.96" y="21.394008" transform="rotate(-0 39.96 21.394008)">Medical images</text>
+   </g>
+   <g id="text_3">
+    <text style="font: 6.2px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="39.96" y="34.237828" transform="rotate(-0 39.96 34.237828)">X-ray, MRI, CT</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 700 6.9px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="123.84" y="21.340102" transform="rotate(-0 123.84 21.340102)">Laboratory values</text>
+   </g>
+   <g id="text_5">
+    <text style="font: 6.2px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="123.84" y="34.249453" transform="rotate(-0 123.84 34.249453)">extracted from reports</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 700 6.9px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="207.72" y="21.34657" transform="rotate(-0 207.72 21.34657)">Clinical text</text>
+   </g>
+   <g id="text_7">
+    <text style="font: 6.2px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(186.104281 31.201088)">notes, symptoms,</text>
+    <text style="font: 6.2px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(181.545344 37.274569)">prescriptions, history</text>
+   </g>
+   <g id="patch_27">
+    <path d="M 39.96 43.56 
+Q 39.96 49.32 39.96 54.297376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 41.36 51.497376 
+L 39.96 54.297376 
+L 38.56 51.497376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font: 700 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="39.96" y="63.804156" transform="rotate(-0 39.96 63.804156)">CNN / vision model</text>
+   </g>
+   <g id="text_9">
+    <text style="font: 6.3px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="39.96" y="85.393477" transform="rotate(-0 39.96 85.393477)">Conv. + ReLU (2)</text>
+   </g>
+   <g id="patch_28">
+    <path d="M 39.96 91.08 
+Q 39.96 95.76 39.96 99.657376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 41.36 96.857376 
+L 39.96 99.657376 
+L 38.56 96.857376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font: 6.3px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="39.96" y="109.14757" transform="rotate(-0 39.96 109.14757)">Pooling</text>
+   </g>
+   <g id="patch_29">
+    <path d="M 39.96 114.84 
+Q 39.96 119.52 39.96 123.417376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 41.36 120.617376 
+L 39.96 123.417376 
+L 38.56 120.617376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="font: 6.3px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="39.96" y="132.913477" transform="rotate(-0 39.96 132.913477)">Feature extraction</text>
+   </g>
+   <g id="text_12">
+    <!-- $\mathbf{h}_{\mathrm{img}}$ -->
+    <g transform="translate(33.5475 152.3025)">
+     <text>
+      <tspan style="font: 700 7.5px 'STIXGeneral'" x="0" y="-0.59375">h</tspan>
+      <tspan style="font: 5.25px 'STIXGeneral'" x="4.293577 5.753071 9.837565" y="0.4656250000000002">img</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_30">
+    <path d="M 123.84 43.56 
+Q 123.84 49.32 123.84 54.297376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 125.24 51.497376 
+L 123.84 54.297376 
+L 122.44 51.497376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <text style="font: 700 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="123.84" y="63.804156" transform="rotate(-0 123.84 63.804156)">Structured features</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 6.3px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="123.84" y="85.393477" transform="rotate(-0 123.84 85.393477)">Unit standardization</text>
+   </g>
+   <g id="patch_31">
+    <path d="M 123.84 91.08 
+Q 123.84 95.76 123.84 99.657376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 125.24 96.857376 
+L 123.84 99.657376 
+L 122.44 96.857376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_15">
+    <text style="font: 6.3px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="123.84" y="109.14757" transform="rotate(-0 123.84 109.14757)">Reference-range flags</text>
+   </g>
+   <g id="patch_32">
+    <path d="M 123.84 114.84 
+Q 123.84 119.52 123.84 123.417376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 125.24 120.617376 
+L 123.84 123.417376 
+L 122.44 120.617376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_16">
+    <text style="font: 6.3px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="123.84" y="132.913477" transform="rotate(-0 123.84 132.913477)">Imputation (7)</text>
+   </g>
+   <g id="text_17">
+    <!-- $\mathbf{h}_{\mathrm{lab}}$ -->
+    <g transform="translate(118.29 152.641758)">
+     <text>
+      <tspan style="font: 700 7.5px 'STIXGeneral'" x="0" y="-0.59375">h</tspan>
+      <tspan style="font: 5.25px 'STIXGeneral'" x="4.293577 5.753071 8.084061" y="0.4656250000000002">lab</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_33">
+    <path d="M 207.72 43.56 
+Q 207.72 49.32 207.72 54.297376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 209.12 51.497376 
+L 207.72 54.297376 
+L 206.32 51.497376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_18">
+    <text style="font: 700 6.8px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="207.72" y="63.804156" transform="rotate(-0 207.72 63.804156)">Transformer model</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 6.3px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="207.72" y="85.393477" transform="rotate(-0 207.72 85.393477)">Tokenization</text>
+   </g>
+   <g id="patch_34">
+    <path d="M 207.72 91.08 
+Q 207.72 95.76 207.72 99.657376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 209.12 96.857376 
+L 207.72 99.657376 
+L 206.32 96.857376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_20">
+    <text style="font: 6.3px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="207.72" y="109.14757" transform="rotate(-0 207.72 109.14757)">Encoder layers (1)</text>
+   </g>
+   <g id="patch_35">
+    <path d="M 207.72 114.84 
+Q 207.72 119.52 207.72 123.417376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 209.12 120.617376 
+L 207.72 123.417376 
+L 206.32 120.617376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_21">
+    <text style="font: 6.3px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="207.72" y="132.90757" transform="rotate(-0 207.72 132.90757)">Text embeddings</text>
+   </g>
+   <g id="text_22">
+    <!-- $\mathbf{h}_{\mathrm{text}}$ -->
+    <g transform="translate(201.4575 152.641758)">
+     <text>
+      <tspan style="font: 700 7.5px 'STIXGeneral'" x="0" y="-0.59375">h</tspan>
+      <tspan style="font: 5.25px 'STIXGeneral'" x="4.293577 5.753071 8.084061 10.709051" y="0.4656250000000002">text</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_36">
+    <path d="M 39.96 157.32 
+Q 39.96 163.44 39.96 168.777376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 41.36 165.977376 
+L 39.96 168.777376 
+L 38.56 165.977376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 123.84 157.32 
+Q 123.84 163.44 123.84 168.777376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 125.24 165.977376 
+L 123.84 168.777376 
+L 122.44 165.977376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 207.72 157.32 
+Q 207.72 163.44 207.72 168.777376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 209.12 165.977376 
+L 207.72 168.777376 
+L 206.32 165.977376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_23">
+    <text style="font: 700 7px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="123.84" y="179.423384" transform="rotate(-0 123.84 179.423384)">Multimodal feature fusion</text>
+   </g>
+   <g id="text_24">
+    <!-- $\mathbf{h}=[\mathbf{h}_{\mathrm{text}};\,\mathbf{h}_{\mathrm{lab}};\,\mathbf{h}_{\mathrm{img}}]$   (3) -->
+    <g transform="translate(88.7 189.9166)">
+     <text>
+      <tspan style="font: 700 7px 'STIXGeneral'" x="0 13.039584 28.498372 42.594961" y="-0.140625">hhhh</tspan>
+      <tspan style="font: 7px 'STIXGeneral'" x="4.902795 10.708591 24.699228 38.795817 54.529014" y="-0.140625">=[;;]</tspan>
+      <tspan style="font: 4.9px 'STIXGeneral'" x="17.039864 18.402063 20.577654 23.027654 32.498652 33.860851 36.036442 46.59524 47.95744 51.769639" y="0.7874999999999996">textlabimg</tspan>
+      <tspan style="font: 7px 'Times New Roman'" x="56.860008 58.610008 60.360008 62.110008 64.441062 67.941062" y="-0.140625">   (3)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_39">
+    <path d="M 123.84 195.48 
+Q 123.84 201.6 123.84 206.937376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 125.24 204.137376 
+L 123.84 206.937376 
+L 122.44 204.137376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_25">
+    <text style="font: 700 7px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="123.84" y="217.977109" transform="rotate(-0 123.84 217.977109)">Multi-task disease analysis head</text>
+   </g>
+   <g id="text_26">
+    <!-- $\hat{y}_d=\sigma(\mathbf{w}_d^{\top}\mathbf{h}+b_d)$  for each condition $d$   (4) -->
+    <g transform="translate(63.22 230.346)">
+     <text>
+      <tspan style="font: 7px 'STIXGeneral'" x="3.480122 6.98644 16.278228 33.755273 45.820443" y="-0.6984375000000007 -0.2765625000000007 -0.2765625000000007 -0.2765625000000007 -0.2765625000000007">̂=(+)</tspan>
+      <tspan style="font: italic 7px 'STIXGeneral'" x="0 12.792235 39.561068 104.325753" y="-0.2765625000000007">yσbd</tspan>
+      <tspan style="font: italic 4.9px 'STIXGeneral'" x="3.216268 23.771488 43.061068" y="0.6515624999999989 1.5796874999999995 0.6515624999999989">ddd</tspan>
+      <tspan style="font: 700 7px 'STIXGeneral'" x="18.609221 28.852478" y="-0.2765625000000007">wh</tspan>
+      <tspan style="font: 4.9px 'STIXGeneral'" x="24.479046" y="-2.7515625000000004">⊤</tspan>
+      <tspan style="font: 7px 'Times New Roman'" x="48.151437 49.901437 51.651437 53.982492 57.482492 59.813546 61.563546 64.67048 67.777414 70.884347 74.384347 76.134347 79.241281 82.741281 86.241281 89.741281 91.686105 93.630929 95.575753 99.075753 102.575753 107.825753 109.575753 111.325753 113.075753 115.406808 118.906808" y="-0.2765625000000007">  for each condition    (4)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_40">
+    <path d="M 28.08 243.72 
+Q 28.08 247.32 28.08 250.137376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 29.48 247.337376 
+L 28.08 250.137376 
+L 26.68 247.337376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_27">
+    <text style="font: 700 6.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="28.08" y="263.176914" transform="rotate(-0 28.08 263.176914)">Diabetes</text>
+   </g>
+   <g id="text_28">
+    <!-- $\hat{y}_d$ -->
+    <g transform="translate(25.156 277.895438)">
+     <text>
+      <tspan style="font: 6.8px 'STIXGeneral'" x="3.358624" y="-1.28125">̂</tspan>
+      <tspan style="font: italic 6.8px 'STIXGeneral'" x="0" y="-0.8843750000000004">y</tspan>
+      <tspan style="font: italic 4.76px 'STIXGeneral'" x="3.105275" y="0.04374999999999929">d</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_41">
+    <path d="M 75.96 243.72 
+Q 75.96 247.32 75.96 250.137376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 77.36 247.337376 
+L 75.96 250.137376 
+L 74.56 247.337376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_29">
+    <text style="font: 700 6.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="75.96" y="263.176914" transform="rotate(-0 75.96 263.176914)">Anemia</text>
+   </g>
+   <g id="text_30">
+    <!-- $\hat{y}_d$ -->
+    <g transform="translate(73.036 277.895438)">
+     <text>
+      <tspan style="font: 6.8px 'STIXGeneral'" x="3.358624" y="-1.28125">̂</tspan>
+      <tspan style="font: italic 6.8px 'STIXGeneral'" x="0" y="-0.8843750000000004">y</tspan>
+      <tspan style="font: italic 4.76px 'STIXGeneral'" x="3.105275" y="0.04374999999999929">d</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_42">
+    <path d="M 123.84 243.72 
+Q 123.84 247.32 123.84 250.137376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 125.24 247.337376 
+L 123.84 250.137376 
+L 122.44 247.337376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_31">
+    <text style="font: 700 6.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(114.034141 260.21591)">Hyper-</text>
+    <text style="font: 700 6.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(113.907695 266.137918)">tension</text>
+   </g>
+   <g id="text_32">
+    <!-- $\hat{y}_d$ -->
+    <g transform="translate(120.916 277.895438)">
+     <text>
+      <tspan style="font: 6.8px 'STIXGeneral'" x="3.358624" y="-1.28125">̂</tspan>
+      <tspan style="font: italic 6.8px 'STIXGeneral'" x="0" y="-0.8843750000000004">y</tspan>
+      <tspan style="font: italic 4.76px 'STIXGeneral'" x="3.105275" y="0.04374999999999929">d</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_43">
+    <path d="M 171.72 243.72 
+Q 171.72 247.32 171.72 250.137376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 173.12 247.337376 
+L 171.72 250.137376 
+L 170.32 247.337376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_33">
+    <text style="font: 700 6.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(161.606914 260.266691)">Kidney</text>
+    <text style="font: 700 6.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(158.719492 266.188699)">disorders</text>
+   </g>
+   <g id="text_34">
+    <!-- $\hat{y}_d$ -->
+    <g transform="translate(168.796 277.895438)">
+     <text>
+      <tspan style="font: 6.8px 'STIXGeneral'" x="3.358624" y="-1.28125">̂</tspan>
+      <tspan style="font: italic 6.8px 'STIXGeneral'" x="0" y="-0.8843750000000004">y</tspan>
+      <tspan style="font: italic 4.76px 'STIXGeneral'" x="3.105275" y="0.04374999999999929">d</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_44">
+    <path d="M 219.6 243.72 
+Q 219.6 247.32 219.6 250.137376 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 221 247.337376 
+L 219.6 250.137376 
+L 218.2 247.337376 
+z
+" style="stroke: #000000; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_35">
+    <text style="font: 700 6.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(212.018867 260.222004)">Liver</text>
+    <text style="font: 700 6.5px 'Times New Roman', 'Times', 'DejaVu Serif', serif" transform="translate(206.599492 266.131824)">disorders</text>
+   </g>
+   <g id="text_36">
+    <!-- $\hat{y}_d$ -->
+    <g transform="translate(216.676 277.895438)">
+     <text>
+      <tspan style="font: 6.8px 'STIXGeneral'" x="3.358624" y="-1.28125">̂</tspan>
+      <tspan style="font: italic 6.8px 'STIXGeneral'" x="0" y="-0.8843750000000004">y</tspan>
+      <tspan style="font: italic 4.76px 'STIXGeneral'" x="3.105275" y="0.04374999999999929">d</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_37">
+    <text style="font: italic 6.3px 'Times New Roman', 'Times', 'DejaVu Serif', serif; text-anchor: middle" x="123.84" y="289.86757" transform="rotate(-0 123.84 289.86757)">Outputs are potential indicators for clinician review, not diagnoses.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe150a72d9e">
+   <rect x="-2.16" y="-1.08" width="252" height="342"/>
+  </clipPath>
+ </defs>
+</svg>

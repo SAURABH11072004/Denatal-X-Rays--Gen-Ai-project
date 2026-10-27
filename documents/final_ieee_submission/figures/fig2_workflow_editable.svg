@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="248.4pt" height="222.89pt" viewBox="0 0 248.4 222.89" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T19:33:58.295305</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 222.89 
+L 248.4 222.89 
+L 248.4 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.4 167.76 
+L 248.4 167.76 
+L 248.4 2.16 
+L 14.4 2.16 
+L 14.4 167.76 
+z
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 131.4 173.664 
+C 131.724609 173.664 132.035966 173.535032 132.265499 173.305499 
+C 132.495032 173.075966 132.624 172.764609 132.624 172.44 
+C 132.624 172.115391 132.495032 171.804034 132.265499 171.574501 
+C 132.035966 171.344968 131.724609 171.216 131.4 171.216 
+C 131.075391 171.216 130.764034 171.344968 130.534501 171.574501 
+C 130.304968 171.804034 130.176 172.115391 130.176 172.44 
+C 130.176 172.764609 130.304968 173.075966 130.534501 173.305499 
+C 130.764034 173.535032 131.075391 173.664 131.4 173.664 
+z
+" clip-path="url(#pb3a0db8ad2)"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 14.4 205.28 
+L 126.36 205.28 
+L 126.36 180.36 
+L 14.4 180.36 
+z
+" clip-path="url(#pb3a0db8ad2)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 136.44 205.28 
+L 248.4 205.28 
+L 248.4 180.36 
+L 136.44 180.36 
+z
+" clip-path="url(#pb3a0db8ad2)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 14.4 12.24 
+L 248.4 12.24 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 14.4 23.76 
+L 248.4 23.76 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 14.4 33.84 
+L 248.4 33.84 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 14.4 45.36 
+L 248.4 45.36 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 14.4 56.88 
+L 248.4 56.88 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 14.4 68.4 
+L 248.4 68.4 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 14.4 79.92 
+L 248.4 79.92 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 14.4 90 
+L 248.4 90 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 14.4 101.52 
+L 248.4 101.52 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 14.4 113.04 
+L 248.4 113.04 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 14.4 123.12 
+L 248.4 123.12 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 14.4 134.64 
+L 248.4 134.64 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 14.4 144.72 
+L 248.4 144.72 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 14.4 156.24 
+L 248.4 156.24 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 14.4 167.76 
+L 248.4 167.76 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 131.4 167.76 
+L 131.4 172.44 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 70.38 172.44 
+L 192.42 172.44 
+" clip-path="url(#pb3a0db8ad2)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-style: italic; font-weight: 700; font-size: 6.6px; font-family: 'Times New Roman', serif; text-anchor: start" x="18" y="9.082705" transform="rotate(-0 18 9.082705)">Input</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: middle" x="23.04" y="19.61499" transform="rotate(-0 23.04 19.61499)">1</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="35.28" y="19.61499" transform="rotate(-0 35.28 19.61499)">Pre-process</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="102.24" y="19.674941" transform="rotate(-0 102.24 19.674941)">intensity scaling; quality flags</text>
+   </g>
+   <g id="text_5">
+    <text style="font-style: italic; font-weight: 700; font-size: 6.6px; font-family: 'Times New Roman', serif; text-anchor: start" x="18" y="30.682705" transform="rotate(-0 18 30.682705)">Tooth localization</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: middle" x="23.04" y="41.21499" transform="rotate(-0 23.04 41.21499)">2</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="35.28" y="41.21499" transform="rotate(-0 35.28 41.21499)">Detect</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="102.24" y="41.274941" transform="rotate(-0 102.24 41.274941)">tooth boxes, score ≥ 0.3</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: middle" x="23.04" y="52.73499" transform="rotate(-0 23.04 52.73499)">3</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="35.28" y="52.73499" transform="rotate(-0 35.28 52.73499)">Number</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="102.24" y="52.794941" transform="rotate(-0 102.24 52.794941)">FDI code or ‘unassigned’</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: middle" x="23.04" y="64.25499" transform="rotate(-0 23.04 64.25499)">4</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="35.28" y="64.25499" transform="rotate(-0 35.28 64.25499)">Segment</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="102.24" y="64.314941" transform="rotate(-0 102.24 64.314941)">instance masks (optional)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: middle" x="23.04" y="75.77499" transform="rotate(-0 23.04 75.77499)">5</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="35.28" y="75.77499" transform="rotate(-0 35.28 75.77499)">Match</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="102.24" y="75.834941" transform="rotate(-0 102.24 75.834941)">mask ↔ box, IoU ≥ 0.5</text>
+   </g>
+   <g id="text_18">
+    <text style="font-style: italic; font-weight: 700; font-size: 6.6px; font-family: 'Times New Roman', serif; text-anchor: start" x="18" y="86.842705" transform="rotate(-0 18 86.842705)">Finding classification</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: middle" x="23.04" y="97.37499" transform="rotate(-0 23.04 97.37499)">6</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="35.28" y="97.376973" transform="rotate(-0 35.28 97.376973)">Classify</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="102.24" y="97.434941" transform="rotate(-0 102.24 97.434941)">softmax over 4 classes</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: middle" x="23.04" y="108.89499" transform="rotate(-0 23.04 108.89499)">7</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="35.28" y="108.896973" transform="rotate(-0 35.28 108.896973)">Classify, flipped</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="102.24" y="108.954941" transform="rotate(-0 102.24 108.954941)">same crops, mirrored</text>
+   </g>
+   <g id="text_25">
+    <text style="font-style: italic; font-weight: 700; font-size: 6.6px; font-family: 'Times New Roman', serif; text-anchor: start" x="18" y="119.962705" transform="rotate(-0 18 119.962705)">Stability check</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: middle" x="23.04" y="130.49499" transform="rotate(-0 23.04 130.49499)">8</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="35.28" y="130.496973" transform="rotate(-0 35.28 130.496973)">Flip passes</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="102.24" y="130.554941" transform="rotate(-0 102.24 130.554941)">detector and segmenter on the mirrored image</text>
+   </g>
+   <g id="text_29">
+    <text style="font-style: italic; font-weight: 700; font-size: 6.6px; font-family: 'Times New Roman', serif; text-anchor: start" x="18" y="141.562705" transform="rotate(-0 18 141.562705)">Aggregation</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: middle" x="23.04" y="152.09499" transform="rotate(-0 23.04 152.09499)">9</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="35.28" y="152.096973" transform="rotate(-0 35.28 152.096973)">Region records</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="102.24" y="152.154941" transform="rotate(-0 102.24 152.154941)">signals, flags, review need</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: middle" x="23.04" y="163.61499" transform="rotate(-0 23.04 163.61499)">10</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="35.28" y="163.616973" transform="rotate(-0 35.28 163.616973)">Final result</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: start" x="102.24" y="163.674941" transform="rotate(-0 102.24 163.674941)">top class per tooth</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 5.76 3.6 
+Q 5.76 84.96 5.76 165.565487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 7.06 162.565487 
+L 5.76 165.565487 
+L 4.46 162.565487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_36">
+    <text style="font-style: italic; font-size: 6.6px; font-family: 'Times New Roman', serif" transform="translate(3.73923 105.639656) rotate(-90)">execution order</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 70.38 172.44 
+Q 70.38 176.4 70.38 179.605487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 71.68 176.605487 
+L 70.38 179.605487 
+L 69.08 176.605487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 192.42 172.44 
+Q 192.42 176.4 192.42 179.605487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 193.72 176.605487 
+L 192.42 179.605487 
+L 191.12 176.605487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Times New Roman', serif; text-anchor: middle" x="70.38" y="190.280347" transform="rotate(-0 70.38 190.280347)">Report draft</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: middle" x="70.38" y="199.444941" transform="rotate(-0 70.38 199.444941)">status: unconfirmed draft</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Times New Roman', serif; text-anchor: middle" x="192.42" y="190.282471" transform="rotate(-0 192.42 190.282471)">Review queue</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7px; font-family: 'Times New Roman', serif; text-anchor: middle" x="192.42" y="199.444941" transform="rotate(-0 192.42 199.444941)">images ordered by combined score</text>
+   </g>
+   <g id="text_41">
+    <text style="font-style: italic; font-size: 6.6px; font-family: 'Times New Roman', serif; text-anchor: middle" x="131.4" y="214.05923" transform="rotate(-0 131.4 214.05923)">A step that cannot run is recorded as unavailable or failed; independent steps still run.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb3a0db8ad2">
+   <rect x="0" y="0" width="248.4" height="248.4"/>
+  </clipPath>
+ </defs>
+</svg>

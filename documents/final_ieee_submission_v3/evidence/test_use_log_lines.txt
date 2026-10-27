@@ -1,0 +1,12 @@
+checkpoints/kaggle_candidates/dc9c505b/training_log.txt:679:2026-10-16 11:53:27 test evaluated for: ['BASE'] (selection used validation only)
+kaggle/artifacts_external_run1/training_log.txt:360:2026-10-24 13:39:06 test evaluated for: ['BASE'] (selection used validation only)
+The internal DENTEX test split has already been used for final evaluation of the checkpoints listed here. Their test results are historical results. Any later test result on the same images is not an untouched estimate; an unbiased estimate for a new model needs an external test set that was never used (docs/RESEARCH_INTEGRITY.md).
+  1: final_metrics            dentex_fdi_numbering_v1 (numbering) at 2026-10-14T07:11:42.236986+00:00 sha256 83f97b2e1ce44b0c historical
+  2: final_metrics            dentex_findings_classification_v1 (classification) at 2026-10-14T07:45:06.534698+00:00 sha256 5aa878e1fc9ef097 historical
+  3: final_metrics            dentex_teeth_detection_v1 (detection) at 2026-10-14T05:50:25.789754+00:00 sha256 a68ce4884066ad80 historical
+  4: final_metrics            dentex_teeth_segmentation_v1 (segmentation) at 2026-10-14T07:51:52.919615+00:00 sha256 dd13568c8de5c2cc historical
+  5: uncertainty              dentex_findings_classification_v1 (classification) at 2026-10-14T07:38:29.380503+00:00 sha256 5aa878e1fc9ef097 historical
+chain intact
+f117c1a32cc0cb76b82b91e8e16e52d16bec59e58884b21b2446b81cb5ecb8f3 *Data/reports/test_set_ledger.json
+c8f9b186fe7c6acbdf28f0c69905336385437ab4bb0f554a84c913b2725e65c1 *reports/p5_disclosure_entry.json
+910835882c223b67fe253aabafdcb9064166a38c330fae022b99f6f788ead6be *kaggle/artifacts_external_run1/ledger_disclosure_entry.json

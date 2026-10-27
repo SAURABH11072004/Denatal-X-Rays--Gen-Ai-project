@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="248.4pt" height="364.9pt" viewBox="0 0 248.4 364.9" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-26T19:24:20.257621</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 364.9 
+L 248.4 364.9 
+L 248.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 0 44.62 
+L 248.4 44.62 
+L 248.4 11.16 
+L 0 11.16 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 0 102.2 
+L 58.32 102.2 
+L 58.32 68.74 
+L 0 68.74 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 63.36 102.2 
+L 121.68 102.2 
+L 121.68 68.74 
+L 63.36 68.74 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 126.72 102.2 
+L 185.04 102.2 
+L 185.04 68.74 
+L 126.72 68.74 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 190.08 102.2 
+L 248.4 102.2 
+L 248.4 68.74 
+L 190.08 68.74 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 0 142.14 
+L 78.48 142.14 
+L 78.48 108.68 
+L 0 108.68 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 84.96 142.14 
+L 163.44 142.14 
+L 163.44 108.68 
+L 84.96 108.68 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 169.92 142.14 
+L 248.4 142.14 
+L 248.4 108.68 
+L 169.92 108.68 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 41.4 191.18 
+L 207 191.18 
+L 207 166.26 
+L 41.4 166.26 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 124.2 201.764 
+C 124.524609 201.764 124.835966 201.635032 125.065499 201.405499 
+C 125.295032 201.175966 125.424 200.864609 125.424 200.54 
+C 125.424 200.215391 125.295032 199.904034 125.065499 199.674501 
+C 124.835966 199.444968 124.524609 199.316 124.2 199.316 
+C 123.875391 199.316 123.564034 199.444968 123.334501 199.674501 
+C 123.104968 199.904034 122.976 200.215391 122.976 200.54 
+C 122.976 200.864609 123.104968 201.175966 123.334501 201.405499 
+C 123.564034 201.635032 123.875391 201.764 124.2 201.764 
+z
+" clip-path="url(#p92833a20d6)"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 0 241.92 
+L 58.32 241.92 
+L 58.32 208.46 
+L 0 208.46 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 63.36 241.92 
+L 121.68 241.92 
+L 121.68 208.46 
+L 63.36 208.46 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 126.72 241.92 
+L 185.04 241.92 
+L 185.04 208.46 
+L 126.72 208.46 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 190.08 241.92 
+L 248.4 241.92 
+L 248.4 208.46 
+L 190.08 208.46 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 0 301.56 
+L 78.48 301.56 
+L 78.48 259.56 
+L 0 259.56 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 84.96 301.56 
+L 163.44 301.56 
+L 163.44 259.56 
+L 84.96 259.56 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 169.92 301.56 
+L 248.4 301.56 
+L 248.4 259.56 
+L 169.92 259.56 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 0 351.22 
+L 78.48 351.22 
+L 78.48 317.76 
+L 0 317.76 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke-dasharray: 2.1,1.2; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 84.96 351.22 
+L 163.44 351.22 
+L 163.44 317.76 
+L 84.96 317.76 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke-dasharray: 2.1,1.2; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 169.92 351.22 
+L 248.4 351.22 
+L 248.4 317.76 
+L 169.92 317.76 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke-dasharray: 2.1,1.2; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 0 360.94 
+L 11.52 360.94 
+L 11.52 355.9 
+L 0 355.9 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 93.6 360.94 
+L 105.12 360.94 
+L 105.12 355.9 
+L 93.6 355.9 
+z
+" clip-path="url(#p92833a20d6)" style="fill: #ffffff; stroke-dasharray: 2.1,1.2; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 0 59.02 
+L 248.4 59.02 
+" clip-path="url(#p92833a20d6)" style="fill: none; stroke-dasharray: 1.225,0.7; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.35"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 0 156.54 
+L 248.4 156.54 
+" clip-path="url(#p92833a20d6)" style="fill: none; stroke-dasharray: 1.225,0.7; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.35"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 124.2 191.18 
+L 124.2 200.54 
+" clip-path="url(#p92833a20d6)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 29.16 200.54 
+L 219.24 200.54 
+" clip-path="url(#p92833a20d6)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 0 249.84 
+L 248.4 249.84 
+" clip-path="url(#p92833a20d6)" style="fill: none; stroke-dasharray: 1.225,0.7; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.35"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 0 308.04 
+L 248.4 308.04 
+" clip-path="url(#p92833a20d6)" style="fill: none; stroke-dasharray: 1.225,0.7; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.35"/>
+   </g>
+   <g id="text_1">
+    <text style="font: 700 6.6px 'Times New Roman', serif; text-anchor: start" x="0" y="7.963453" transform="rotate(-0 0 7.963453)">CLIENT (BROWSER)</text>
+   </g>
+   <g id="text_2">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="21.038086" transform="rotate(-0 124.2 21.038086)">React 18 user interface (Vite 5, Tailwind CSS)</text>
+   </g>
+   <g id="text_3">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="30.245078" transform="rotate(-0 124.2 30.245078)">Home, X-ray Analysis, Reports, Review Findings, About &amp; Limitations, Settings;</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="38.785078" transform="rotate(-0 124.2 38.785078)">research pages</text>
+   </g>
+   <g id="patch_24">
+    <path d="M 124.2 44.62 
+Q 124.2 50.74 124.2 56.105487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 125.5 53.105487 
+L 124.2 56.105487 
+L 122.9 53.105487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font: italic 6.6px 'Times New Roman', serif; text-anchor: start" x="127.8" y="52.319359" transform="rotate(-0 127.8 52.319359)">HTTP/JSON; proxy adds the API token</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 700 6.6px 'Times New Roman', serif; text-anchor: start" x="0" y="65.543453" transform="rotate(-0 0 65.543453)">BACK END (FASTAPI; TOKEN, LOOPBACK ONLY, RATE LIMITS)</text>
+   </g>
+   <g id="text_7">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="29.16" y="78.604023" transform="rotate(-0 29.16 78.604023)">Images</text>
+   </g>
+   <g id="text_8">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="29.16" y="87.831641" transform="rotate(-0 29.16 87.831641)">upload checks,</text>
+   </g>
+   <g id="text_9">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="29.16" y="96.371641" transform="rotate(-0 29.16 96.371641)">manifest ids</text>
+   </g>
+   <g id="text_10">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="92.52" y="78.662617" transform="rotate(-0 92.52 78.662617)">Analysis</text>
+   </g>
+   <g id="text_11">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="92.52" y="87.831641" transform="rotate(-0 92.52 87.831641)">10-step pipeline,</text>
+   </g>
+   <g id="text_12">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="92.52" y="96.365078" transform="rotate(-0 92.52 96.365078)">uncertainty</text>
+   </g>
+   <g id="text_13">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="155.88" y="78.611055" transform="rotate(-0 155.88 78.611055)">Reports</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="155.88" y="87.825078" transform="rotate(-0 155.88 87.825078)">drafting,</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="155.88" y="96.371641" transform="rotate(-0 155.88 96.371641)">validation, export</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="219.24" y="78.611055" transform="rotate(-0 219.24 78.611055)">Reviews</text>
+   </g>
+   <g id="text_17">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="219.24" y="87.831641" transform="rotate(-0 219.24 87.831641)">revisions, second</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="219.24" y="96.371641" transform="rotate(-0 219.24 96.371641)">approver</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="39.24" y="118.602617" transform="rotate(-0 39.24 118.602617)">Active learning</text>
+   </g>
+   <g id="text_20">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="39.24" y="127.765078" transform="rotate(-0 39.24 127.765078)">pool scoring and</text>
+   </g>
+   <g id="text_21">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="39.24" y="136.311641" transform="rotate(-0 39.24 136.311641)">selection</text>
+   </g>
+   <g id="text_22">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="122.872617" transform="rotate(-0 124.2 122.872617)">Models and training</text>
+   </g>
+   <g id="text_23">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="132.036719" transform="rotate(-0 124.2 132.036719)">registry, jobs, evaluation</text>
+   </g>
+   <g id="text_24">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="209.16" y="122.821055" transform="rotate(-0 209.16 122.821055)">Dataset</text>
+   </g>
+   <g id="text_25">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="209.16" y="132.035078" transform="rotate(-0 209.16 132.035078)">manifest, splits, leakage</text>
+   </g>
+   <g id="patch_25">
+    <path d="M 124.2 142.14 
+Q 124.2 148.26 124.2 153.625487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 125.5 150.625487 
+L 124.2 153.625487 
+L 122.9 150.625487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_26">
+    <text style="font: 700 6.6px 'Times New Roman', serif; text-anchor: start" x="0" y="163.065516" transform="rotate(-0 0 163.065516)">MODEL LAYER (DENTEXMODEL PACKAGE, PYTORCH 2.6, CUDA OR CPU)</text>
+   </g>
+   <g id="text_27">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="176.182617" transform="rotate(-0 124.2 176.182617)">Model registry</text>
+   </g>
+   <g id="text_28">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="185.345078" transform="rotate(-0 124.2 185.345078)">SHA-256 of each checkpoint checked against its sidecar</text>
+   </g>
+   <g id="patch_26">
+    <path d="M 29.16 200.54 
+Q 29.16 204.5 29.16 207.705487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 30.46 204.705487 
+L 29.16 207.705487 
+L 27.86 204.705487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 92.52 200.54 
+Q 92.52 204.5 92.52 207.705487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 93.82 204.705487 
+L 92.52 207.705487 
+L 91.22 204.705487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 155.88 200.54 
+Q 155.88 204.5 155.88 207.705487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 157.18 204.705487 
+L 155.88 207.705487 
+L 154.58 204.705487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 219.24 200.54 
+Q 219.24 204.5 219.24 207.705487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 220.54 204.705487 
+L 219.24 207.705487 
+L 217.94 204.705487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_29">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="29.16" y="222.601055" transform="rotate(-0 29.16 222.601055)">Tooth detector</text>
+   </g>
+   <g id="text_30">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="29.16" y="231.821641" transform="rotate(-0 29.16 231.821641)">Faster R-CNN</text>
+   </g>
+   <g id="text_31">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="92.52" y="218.382617" transform="rotate(-0 92.52 218.382617)">FDI numbering</text>
+   </g>
+   <g id="text_32">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="92.52" y="227.551641" transform="rotate(-0 92.52 227.551641)">Faster R-CNN, 32</text>
+   </g>
+   <g id="text_33">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="92.52" y="236.091641" transform="rotate(-0 92.52 236.091641)">classes</text>
+   </g>
+   <g id="text_34">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="155.88" y="222.650273" transform="rotate(-0 155.88 222.650273)">Segmenter</text>
+   </g>
+   <g id="text_35">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="155.88" y="231.821641" transform="rotate(-0 155.88 231.821641)">Mask R-CNN</text>
+   </g>
+   <g id="text_36">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="219.24" y="218.331055" transform="rotate(-0 219.24 218.331055)">Classifier</text>
+   </g>
+   <g id="text_37">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="219.24" y="227.551641" transform="rotate(-0 219.24 227.551641)">ResNet-50, 4</text>
+   </g>
+   <g id="text_38">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="219.24" y="236.085078" transform="rotate(-0 219.24 236.085078)">finding classes</text>
+   </g>
+   <g id="text_39">
+    <text style="font: 700 6.6px 'Times New Roman', serif; text-anchor: start" x="0" y="256.365516" transform="rotate(-0 0 256.365516)">STORAGE (LOCAL DISK)</text>
+   </g>
+   <g id="text_40">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="39.24" y="273.701055" transform="rotate(-0 39.24 273.701055)">SQLite database</text>
+   </g>
+   <g id="text_41">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="39.24" y="282.915078" transform="rotate(-0 39.24 282.915078)">images, analyses,</text>
+   </g>
+   <g id="text_42">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="39.24" y="291.456719" transform="rotate(-0 39.24 291.456719)">reviews, reports, jobs</text>
+   </g>
+   <g id="text_43">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="269.431055" transform="rotate(-0 124.2 269.431055)">Files</text>
+   </g>
+   <g id="text_44">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="278.651641" transform="rotate(-0 124.2 278.651641)">uploads (hash names),</text>
+   </g>
+   <g id="text_45">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="287.191641" transform="rotate(-0 124.2 287.191641)">DENTEX data,</text>
+   </g>
+   <g id="text_46">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="295.731641" transform="rotate(-0 124.2 295.731641)">checkpoints</text>
+   </g>
+   <g id="text_47">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="209.16" y="273.757305" transform="rotate(-0 209.16 273.757305)">Reports folder</text>
+   </g>
+   <g id="text_48">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="209.16" y="282.921641" transform="rotate(-0 209.16 282.921641)">evaluation reports,</text>
+   </g>
+   <g id="text_49">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="209.16" y="291.455078" transform="rotate(-0 209.16 291.455078)">test-set ledger</text>
+   </g>
+   <g id="text_50">
+    <text style="font: 700 6.6px 'Times New Roman', serif; text-anchor: start" x="0" y="314.565516" transform="rotate(-0 0 314.565516)">OPTIONAL SERVICES (NOT CONFIGURED)</text>
+   </g>
+   <g id="text_51">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="39.24" y="327.689648" transform="rotate(-0 39.24 327.689648)">LLM endpoint</text>
+   </g>
+   <g id="text_52">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="39.24" y="336.851641" transform="rotate(-0 39.24 336.851641)">OpenAI-compatible;</text>
+   </g>
+   <g id="text_53">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="39.24" y="345.385078" transform="rotate(-0 39.24 345.385078)">optional rewording</text>
+   </g>
+   <g id="text_54">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="331.901055" transform="rotate(-0 124.2 331.901055)">Label Studio</text>
+   </g>
+   <g id="text_55">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="124.2" y="341.121641" transform="rotate(-0 124.2 341.121641)">annotation server</text>
+   </g>
+   <g id="text_56">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="209.16" y="331.901055" transform="rotate(-0 209.16 331.901055)">TensorBoard</text>
+   </g>
+   <g id="text_57">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="209.16" y="341.115078" transform="rotate(-0 209.16 341.115078)">training curves</text>
+   </g>
+   <g id="text_58">
+    <text style="font: 6.6px 'Times New Roman', serif; text-anchor: start" x="14.4" y="360.005547" transform="rotate(-0 14.4 360.005547)">trained network</text>
+   </g>
+   <g id="text_59">
+    <text style="font: 6.6px 'Times New Roman', serif; text-anchor: start" x="108" y="359.999359" transform="rotate(-0 108 359.999359)">optional, not configured</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p92833a20d6">
+   <rect x="0" y="0" width="248.4" height="403.2"/>
+  </clipPath>
+ </defs>
+</svg>

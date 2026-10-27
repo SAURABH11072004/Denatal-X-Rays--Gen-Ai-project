@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="248.4pt" height="230.556pt" viewBox="0 0 248.4 230.556" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T19:20:34.695155</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 230.556 
+L 248.4 230.556 
+L 248.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 108 114.776 
+L 248.4 114.776 
+L 248.4 89.856 
+L 108 89.856 
+z
+" clip-path="url(#p9d45528616)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 108 146.176 
+L 248.4 146.176 
+L 248.4 121.256 
+L 108 121.256 
+z
+" clip-path="url(#p9d45528616)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 108 177.576 
+L 248.4 177.576 
+L 248.4 152.656 
+L 108 152.656 
+z
+" clip-path="url(#p9d45528616)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 0 177.576 
+L 95.04 177.576 
+L 95.04 89.856 
+L 0 89.856 
+z
+" clip-path="url(#p9d45528616)" style="fill: #ffffff; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 0 228.396 
+L 248.4 228.396 
+L 248.4 186.936 
+L 0 186.936 
+L 0 228.396 
+z
+" clip-path="url(#p9d45528616)" style="fill: none; stroke-dasharray: 2.1,1.2; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 0 11.52 
+L 248.4 11.52 
+" clip-path="url(#p9d45528616)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 0 22.176 
+L 248.4 22.176 
+" clip-path="url(#p9d45528616)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 0 32.832 
+L 248.4 32.832 
+" clip-path="url(#p9d45528616)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 0 43.488 
+L 248.4 43.488 
+" clip-path="url(#p9d45528616)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 0 54.144 
+L 248.4 54.144 
+" clip-path="url(#p9d45528616)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 0 64.8 
+L 248.4 64.8 
+" clip-path="url(#p9d45528616)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 0 75.456 
+L 248.4 75.456 
+" clip-path="url(#p9d45528616)" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 87.84 11.52 
+L 87.84 75.456 
+" clip-path="url(#p9d45528616)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 145.44 11.52 
+L 145.44 75.456 
+" clip-path="url(#p9d45528616)" style="fill: none; stroke: #000000; stroke-width: 0.35; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font: 700 6.6px 'Times New Roman', serif; text-anchor: start" x="0" y="7.239328" transform="rotate(-0 0 7.239328)">DEPLOYED IN THE APPLICATION</text>
+   </g>
+   <g id="text_2">
+    <text style="font: 700 7px 'Times New Roman', serif; text-anchor: start" x="3.6" y="18.465109" transform="rotate(-0 3.6 18.465109)">Signal per region</text>
+   </g>
+   <g id="text_3">
+    <text style="font: 700 7px 'Times New Roman', serif; text-anchor: start" x="91.44" y="18.416984" transform="rotate(-0 91.44 18.416984)">Threshold</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 700 7px 'Times New Roman', serif; text-anchor: start" x="149.04" y="18.465109" transform="rotate(-0 149.04 18.465109)">Flag (sent to review)</text>
+   </g>
+   <g id="text_5">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="3.6" y="29.179078" transform="rotate(-0 3.6 29.179078)">normalized entropy</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="91.44" y="29.185641" transform="rotate(-0 91.44 29.185641)">≥ 0.397</text>
+   </g>
+   <g id="text_7">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="149.04" y="29.185641" transform="rotate(-0 149.04 29.185641)">‘abstained’</text>
+   </g>
+   <g id="text_8">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="3.6" y="39.835078" transform="rotate(-0 3.6 39.835078)">flip disagreement</text>
+   </g>
+   <g id="text_9">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="91.44" y="39.841641" transform="rotate(-0 91.44 39.841641)">≥ 0.076</text>
+   </g>
+   <g id="text_10">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="149.04" y="39.841641" transform="rotate(-0 149.04 39.841641)">‘unstable under flip’</text>
+   </g>
+   <g id="text_11">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="3.6" y="50.491078" transform="rotate(-0 3.6 50.491078)">mask instability</text>
+   </g>
+   <g id="text_12">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="91.44" y="50.497641" transform="rotate(-0 91.44 50.497641)">≥ 0.30</text>
+   </g>
+   <g id="text_13">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="149.04" y="50.497641" transform="rotate(-0 149.04 50.497641)">‘mask unstable’</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="3.6" y="61.153641" transform="rotate(-0 3.6 61.153641)">detection score</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="91.44" y="61.153641" transform="rotate(-0 91.44 61.153641)">&lt; 0.50</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="149.04" y="61.153641" transform="rotate(-0 149.04 61.153641)">‘low detection score’</text>
+   </g>
+   <g id="text_17">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="3.6" y="71.803078" transform="rotate(-0 3.6 71.803078)">numbering check</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="91.44" y="71.809641" transform="rotate(-0 91.44 71.809641)">issue / no number</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="149.04" y="71.803078" transform="rotate(-0 149.04 71.803078)">numbering flag</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 47.52 75.456 
+Q 47.52 82.656 47.52 89.101487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 48.82 86.101487 
+L 47.52 89.101487 
+L 46.22 86.101487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 178.2 75.456 
+Q 178.2 82.656 178.2 89.101487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 179.5 86.101487 
+L 178.2 89.101487 
+L 176.9 86.101487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_20">
+    <text style="font: italic 6.6px 'Times New Roman', serif; text-anchor: start" x="50.4" y="83.869172" transform="rotate(-0 50.4 83.869172)">every region</text>
+   </g>
+   <g id="text_21">
+    <text style="font: italic 6.6px 'Times New Roman', serif; text-anchor: start" x="181.08" y="83.875359" transform="rotate(-0 181.08 83.875359)">flagged regions</text>
+   </g>
+   <g id="text_22">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="178.2" y="99.785648" transform="rotate(-0 178.2 99.785648)">Review queue</text>
+   </g>
+   <g id="text_23">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="178.2" y="108.941078" transform="rotate(-0 178.2 108.941078)">images ordered by combined score S</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 178.2 114.776 
+Q 178.2 118.016 178.2 120.501487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 179.5 117.501487 
+L 178.2 120.501487 
+L 176.9 117.501487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_24">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="178.2" y="131.127055" transform="rotate(-0 178.2 131.127055)">Human review</text>
+   </g>
+   <g id="text_25">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="178.2" y="140.342719" transform="rotate(-0 178.2 140.342719)">confirm, correct or reject</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 178.2 146.176 
+Q 178.2 149.416 178.2 151.901487 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 179.5 148.901487 
+L 178.2 151.901487 
+L 176.9 148.901487 
+z
+" style="stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_26">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="178.2" y="162.583305" transform="rotate(-0 178.2 162.583305)">Second approver</text>
+   </g>
+   <g id="text_27">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="178.2" y="171.741078" transform="rotate(-0 178.2 171.741078)">only approved records are exportable</text>
+   </g>
+   <g id="text_28">
+    <text style="font: 700 7.5px 'Times New Roman', serif; text-anchor: middle" x="47.52" y="118.317055" transform="rotate(-0 47.52 118.317055)">Final result</text>
+   </g>
+   <g id="text_29">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="47.52" y="127.537641" transform="rotate(-0 47.52 127.537641)">top class and raw score;</text>
+   </g>
+   <g id="text_30">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="47.52" y="136.077641" transform="rotate(-0 47.52 136.077641)">marked ‘needs human review’</text>
+   </g>
+   <g id="text_31">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="47.52" y="144.611078" transform="rotate(-0 47.52 144.611078)">if flagged; never reported as</text>
+   </g>
+   <g id="text_32">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: middle" x="47.52" y="153.151078" transform="rotate(-0 47.52 153.151078)">healthy when abstained</text>
+   </g>
+   <g id="text_33">
+    <text style="font: 700 6.6px 'Times New Roman', serif; text-anchor: start" x="4.32" y="194.179453" transform="rotate(-0 4.32 194.179453)">EVALUATED OFFLINE ONLY (NOT DEPLOYED)</text>
+   </g>
+   <g id="text_34">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="5.76" y="204.401078" transform="rotate(-0 5.76 204.401078)">• temperature scaling, T = 0.95 (calibration split); app scores stay raw</text>
+   </g>
+   <g id="text_35">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="5.76" y="212.947641" transform="rotate(-0 5.76 212.947641)">• 33 alternative abstention rules; the best candidate failed on validation</text>
+   </g>
+   <g id="text_36">
+    <text style="font: 7px 'Times New Roman', serif; text-anchor: start" x="5.76" y="221.481078" transform="rotate(-0 5.76 221.481078)">• retraining with approved reviews: implemented, never run</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9d45528616">
+   <rect x="0" y="0" width="248.4" height="309.6"/>
+  </clipPath>
+ </defs>
+</svg>
