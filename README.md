@@ -49,6 +49,15 @@ with false confidence, and reviewer decisions are recorded with an audit history
 The project consists of a Python core library (`src/dentexmodel/`), a FastAPI backend (`backend/`), a React web
 application (`frontend/`), training/evaluation scripts (`scripts/`, `kaggle/`) and a test suite (`tests/`).
 
+## Project Highlights
+
+- **Explainable Analysis:** Visualizes tooth detections, segmentation masks, tooth numbering, and classification results.
+- **Uncertainty-Aware Predictions:** Flags uncertain findings for human review.
+- **Evidence-Grounded Reports:** Generates structured reports based on validated model findings.
+- **Multilingual Support:** Supports reports in English, Hindi, and Marathi.
+- **Research Integrity:** Includes grouped dataset splits, data leakage checks, and evaluation tools.
+
+
 ## Problem statement
 
 Reading panoramic radiographs is time-consuming, and automated tools that output a single confident label hide the cases
